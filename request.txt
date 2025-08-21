@@ -1,0 +1,38 @@
+You are building an app called “PersonaForge,” a modular storytelling tool that helps authors create authentic characters using MBTI psychology and narrative arcs.
+
+The app should be structured based on the specifications outlined in the file `project_map.md`. Begin with the following core functionality. Each item should be implemented using modular components with clear separation of logic and styling.
+
+✅ Build a homepage that includes:
+- A brief intro section describing the app’s purpose
+- A button to “Start New Story” and a section to “Load Existing Stories”
+
+✅ Create a “Select Personality” page that includes:
+- A grid or list of all 16 MBTI personality types
+- Each personality card should include a title (e.g., ENFJ - The Protagonist), a summary, and a “Use This Type” button
+
+✅ When a personality type is selected:
+- Load a detailed view of that MBTI profile using data from a static file or JSON
+- Include all relevant cheat sheet sections (love language, dialogue style, strengths, etc.)
+
+✅ Allow the user to:
+- Assign a compatible narrative arc (from predefined arc templates)
+- Name the character
+- Save the character into a specific story folder
+
+✅ Build a “Story Folders” page where users can:
+- View a list of their saved stories
+- Click into any story to view all characters saved under that folder
+- Remove or edit characters
+
+✅ Apply Row-Level Security (RLS) to all tables
+- Only allow users to access their own stories, characters, relationships, and simulations
+
+🕓 Defer for now (do not implement yet):
+- Relationship mapping features
+- AI dialogue simulation workflow
+- Export functionality for universe/worldbuilding integration
+
+💡 Notes:
+- Use Supabase for authentication and data persistence
+- Maintain standard naming across foreign keys: user_uuid, story_id, char_id, etc.
+- Follow the modular design practices in `project_map.md`

@@ -1,0 +1,1113 @@
+{
+    "ENFP": {
+        "nickname": "The Campaigner",
+        "tagline": "The enthusiastic visionary. The emotional firecracker. The soul-stirring sparkplug of your narrative.",
+        "overview": "ENFPs are the free-spirited dreamers who carry a thousand stories in their hearts and a revolution in their back pocket. Bursting with energy and ideas, ENFPs chase authenticity and emotional truth like a moth to a flame...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Intuition (Ne) - The engine of the ENFP\u2019s imagination...",
+            "auxiliary": "Introverted Feeling (Fi) - This is their soul\u2019s compass...",
+            "tertiary": "Extraverted Thinking (Te) - ENFPs can wield Te when it\u2019s time to get things done...",
+            "inferior": "Introverted Sensing (Si) - Si stores the past, and for ENFPs, it\u2019s their Achilles\u2019 heel..."
+        },
+        "core_strengths": [
+            "Infectiously enthusiastic",
+            "Deeply empathetic",
+            "Idea generators",
+            "Authenticity seekers",
+            "Inspiring and charismatic"
+        ],
+        "core_weaknesses": [
+            "Easily distracted",
+            "Avoid routine like dragons avoid dentists",
+            "Struggle with follow-through",
+            "Emotionally intense",
+            "Overidealistic"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Quality Time & Words of Affirmation",
+            "how_they_love": "With their whole soul. ENFPs are playful, attentive, and all-in...",
+            "how_they_handle_heartbreak": "Like a song stuck on repeat. They\u2019ll analyze every moment..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Emotionally expressive but tries to find the emotional 'why' behind the conflict.",
+            "under_pressure": "May shut down or deflect with humor if they feel misunderstood or invalidated.",
+            "growth_response": "Learns to slow down, listen actively, and express needs with clarity, not just passion."
+        },
+        "dialogue_style": {
+            "description": "ENFPs talk in metaphors, possibilities, and rapid-fire tangents...",
+            "example_phrases": [
+                "What if we just\u2026 left everything and started a llama sanctuary?",
+                "I feel like there\u2019s something deeper going on here\u2014do you feel it too?",
+                "I know it\u2019s crazy, but doesn\u2019t it feel right?"
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Scattered, emotionally reactive, chasing new ideas but leaving wreckage behind...",
+            "growth_journey": "Learning to prioritize, commit, and follow through. They develop their Te and Si...",
+            "mature_version": "A dynamic visionary who channels their energy into meaningful change..."
+        },
+        "ideal_roles_in_story": [
+            "The Revolutionary Dreamer",
+            "The Whimsical Guide",
+            "The Passionate Artist",
+            "The Unexpected Hero"
+        ],
+        "works_well_with": [
+            "INFJs & INFPs",
+            "ENTPs",
+            "ENFJs"
+        ],
+        "struggles_with": [
+            "ISTJs & INTJs",
+            "ESTJs",
+            "ISFPs"
+        ],
+        "writing_prompts": [
+            "What idea has your ENFP dropped everything to pursue\u2014only to realize they weren\u2019t ready for it?",
+            "How do they react when someone questions their sincerity?",
+            "What does commitment mean to them, and what happens when they finally decide to follow through?"
+        ]
+    },
+    "ENFJ": {
+        "nickname": "The Protagonist",
+        "tagline": "The charismatic idealist. The emotional architect. The rallying heart of any ensemble.",
+        "overview": "ENFJs are natural-born leaders with a deep sense of purpose and an unshakable belief in the potential of others...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Feeling (Fe) - ENFJs lead with Fe, which means they are hyper-aware of group dynamics...",
+            "auxiliary": "Introverted Intuition (Ni) - Ni gives ENFJs a visionary quality...",
+            "tertiary": "Extraverted Sensing (Se) - When developed, Se helps ENFJs stay grounded...",
+            "inferior": "Introverted Thinking (Ti) - Ti is their weakest function..."
+        },
+        "core_strengths": [
+            "Charismatic and inspiring",
+            "Emotionally intuitive",
+            "Visionary",
+            "Loyal and dependable",
+            "Excellent communicators"
+        ],
+        "core_weaknesses": [
+            "Overextend themselves",
+            "Conflict-averse",
+            "Struggle with objectivity",
+            "Over-idealistic",
+            "People-pleasing tendencies"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Words of Affirmation & Quality Time",
+            "how_they_love": "They love with intention and fire...",
+            "how_they_handle_heartbreak": "With quiet devastation..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Avoids direct confrontation...",
+            "under_pressure": "May become passive-aggressive...",
+            "growth_response": "Learns to voice their needs directly..."
+        },
+        "dialogue_style": {
+            "description": "ENFJs are articulate, expressive, and emotionally compelling...",
+            "example_phrases": [
+                "I just want everyone to feel seen and heard.",
+                "What you\u2019re feeling is valid\u2014let\u2019s figure it out together.",
+                "I believe in you. You don\u2019t have to do this alone."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Overcommitted, constantly sacrificing their needs...",
+            "growth_journey": "Learning to set boundaries, use Ti...",
+            "mature_version": "A grounded visionary who uplifts others without losing themselves..."
+        },
+        "ideal_roles_in_story": [
+            "The Mentor",
+            "The Diplomatic Leader",
+            "The Charismatic Activist",
+            "The Heart of the Group"
+        ],
+        "works_well_with": [
+            "INFPs & ISFPs",
+            "ENTPs & ENFPs",
+            "INFJs"
+        ],
+        "struggles_with": [
+            "ISTJs & INTJs",
+            "ESTPs",
+            "ENTJs"
+        ],
+        "writing_prompts": [
+            "What does your ENFJ care so deeply about that they\u2019d risk it all?",
+            "How do they react when someone betrays their belief in them?",
+            "What happens when they can\u2019t fix the conflict around them?"
+        ]
+    },
+    "INFP": {
+        "nickname": "The Mediator",
+        "tagline": "The quiet dreamer. The soul-searcher. The heart behind the scenes.",
+        "overview": "INFPs are the idealists of the MBTI world, driven by a rich internal world...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Feeling (Fi) - Fi makes INFPs deeply individualistic and value-driven...",
+            "auxiliary": "Extraverted Intuition (Ne) - Ne fuels their creativity...",
+            "tertiary": "Introverted Sensing (Si) - Si gives INFPs a nostalgic streak...",
+            "inferior": "Extraverted Thinking (Te) - Te is their weakest function..."
+        },
+        "core_strengths": [
+            "Empathetic and Compassionate",
+            "Creative and Imaginative",
+            "Idealistic",
+            "Authentic",
+            "Loyal to a Fault"
+        ],
+        "core_weaknesses": [
+            "Easily Overwhelmed",
+            "Conflict-Averse",
+            "Overidealistic",
+            "Disorganized",
+            "Overpersonalizing Feedback"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Quality Time & Acts of Service",
+            "how_they_love": "They love with quiet intensity...",
+            "how_they_handle_heartbreak": "Privately and poetically..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Withdraws to think and feel through the situation...",
+            "under_pressure": "May emotionally shut down or become passive-aggressive...",
+            "growth_response": "Learns to express boundaries and feelings..."
+        },
+        "dialogue_style": {
+            "description": "INFPs speak with quiet passion...",
+            "example_phrases": [
+                "I just feel like\u2026 there has to be more to this.",
+                "That story really stayed with me\u2014it felt like something I\u2019ve always known.",
+                "I don\u2019t need the spotlight. I just want it to mean something."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Shy, disconnected from others, lost in their own head...",
+            "growth_journey": "Learning to externalize their values...",
+            "mature_version": "A grounded idealist who turns empathy into action..."
+        },
+        "ideal_roles_in_story": [
+            "The Reluctant Hero",
+            "The Soulful Artist",
+            "The Underdog",
+            "The Gentle Rebel"
+        ],
+        "works_well_with": [
+            "ENFJs & INFJs",
+            "ENFPs & ISFPs",
+            "INTPs"
+        ],
+        "struggles_with": [
+            "ESTJs & ENTJs",
+            "ISTJs",
+            "ESFPs"
+        ],
+        "writing_prompts": [
+            "What\u2019s the dream your INFP has never told anyone\u2014but secretly plans to pursue?",
+            "What ideal are they willing to fight for, even if it means standing alone?",
+            "How do they handle betrayal by someone they trusted implicitly?"
+        ]
+    },
+    "INTP": {
+        "nickname": "The Logician",
+        "tagline": "The brilliant theorist. The quiet questioner. The curious architect of possibility.",
+        "overview": "INTPs are analytical, imaginative, and independent thinkers driven by a deep need to understand how things work...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Thinking (Ti) - INTPs lead with Ti, a highly internal logical process...",
+            "auxiliary": "Extraverted Intuition (Ne) - Ne fuels their creativity...",
+            "tertiary": "Introverted Sensing (Si) - Si grounds them in familiar frameworks...",
+            "inferior": "Extraverted Feeling (Fe) - Fe, their weakest function, makes social harmony a bit of a challenge..."
+        },
+        "core_strengths": [
+            "Innovative thinkers",
+            "Objective and logical",
+            "Autonomous",
+            "Curious and open-minded",
+            "Flexible problem-solvers"
+        ],
+        "core_weaknesses": [
+            "Prone to analysis paralysis",
+            "Emotionally reserved",
+            "Easily distracted",
+            "Insensitive without meaning to be",
+            "Can seem aloof or disengaged"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Quality Time & Acts of Service",
+            "how_they_love": "They love with loyalty and a quiet intensity...",
+            "how_they_handle_heartbreak": "INTPs tend to internalize heartbreak..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Withdraw to analyze...",
+            "under_pressure": "Can become dismissive or cold...",
+            "growth_response": "Learns to listen without trying to fix..."
+        },
+        "dialogue_style": {
+            "description": "INTPs are concise, inquisitive, and sometimes dryly witty...",
+            "example_phrases": [
+                "Let\u2019s test that theory.",
+                "I need to think about this for a while.",
+                "That\u2019s an interesting assumption\u2014have you considered the inverse?"
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Detached, overly cerebral, emotionally unaware...",
+            "growth_journey": "Learns to ground abstract ideas in action...",
+            "mature_version": "A visionary thinker who knows how to bring ideas to life..."
+        },
+        "ideal_roles_in_story": [
+            "The Inventor",
+            "The Rogue Scholar",
+            "The Philosophical Rebel",
+            "The Isolated Genius"
+        ],
+        "works_well_with": [
+            "ENTPs & ENFPs",
+            "INFJs",
+            "INTJs"
+        ],
+        "struggles_with": [
+            "ESFJs & ENFJs",
+            "ISTJs",
+            "ESTPs"
+        ],
+        "writing_prompts": [
+            "What theory is your INTP obsessed with proving\u2014even if it means losing everything?",
+            "How do they handle an emotional confession from someone they care about?",
+            "What happens when their logic fails them in a moment that demands emotional sensitivity?"
+        ]
+    },
+    "INTJ": {
+        "nickname": "The Mastermind",
+        "tagline": "The visionary strategist. The precision architect. The quiet force behind grand plans.",
+        "overview": "INTJs are independent, intensely focused, and relentlessly strategic...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Intuition (Ni) - INTJs lead with Ni, granting them an uncanny ability to see patterns...",
+            "auxiliary": "Extraverted Thinking (Te) - Te supports their Ni by turning ideas into action...",
+            "tertiary": "Introverted Feeling (Fi) - Though not always obvious, INTJs have deeply held internal values...",
+            "inferior": "Extraverted Sensing (Se) - Se is their least developed function..."
+        },
+        "core_strengths": [
+            "Strategic visionaries",
+            "Independent and self-assured",
+            "Highly intellectual",
+            "Focused and determined",
+            "Innovative problem-solvers"
+        ],
+        "core_weaknesses": [
+            "Overly critical",
+            "Emotionally distant",
+            "Stubborn",
+            "Insensitive to social norms",
+            "Impatient with incompetence"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Quality Time",
+            "how_they_love": "INTJs love by strategizing your success...",
+            "how_they_handle_heartbreak": "With brutal introspection..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Logical rebuttals...",
+            "under_pressure": "May withdraw or go cold...",
+            "growth_response": "Learns to engage emotionally..."
+        },
+        "dialogue_style": {
+            "description": "INTJs speak with purpose. Every word has weight, and fluff is banished...",
+            "example_phrases": [
+                "Emotion isn\u2019t the enemy. It\u2019s just not the strategy.",
+                "That\u2019s inefficient. Here\u2019s a better way.",
+                "I\u2019m not ignoring you\u2014I\u2019m problem-solving."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Dismissive, overly rigid, and detached...",
+            "growth_journey": "Learning to trust others, value vulnerability...",
+            "mature_version": "A balanced visionary\u2014strategic, compassionate..."
+        },
+        "ideal_roles_in_story": [
+            "The Mastermind Villain (or Antihero)",
+            "The Visionary Leader",
+            "The Lone Architect",
+            "The Enigmatic Ally"
+        ],
+        "works_well_with": [
+            "ENTPs & ENFPs",
+            "INFJs",
+            "ISTPs"
+        ],
+        "struggles_with": [
+            "ESFPs & ENFPs",
+            "ISFJs",
+            "ENFJs"
+        ],
+        "writing_prompts": [
+            "What is your INTJ building\u2014and what happens if someone threatens to take it away?",
+            "What hidden value do they protect, even if it doesn\u2019t align with logic?",
+            "What would shake their carefully planned world\u2014and how would they adapt?"
+        ]
+    },
+    "ESFP": {
+        "nickname": "The Entertainer",
+        "tagline": "The vibrant soul. The life of the party. The sensory sorcerer of spontaneity.",
+        "overview": "ESFPs live to light up a room. Energetic, spontaneous, and emotionally in-tune, these characters bring color, chaos, and charisma to any story...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Sensing (Se) - They lead with Se, making them hyper-present and attuned to their environment...",
+            "auxiliary": "Introverted Feeling (Fi) - Beneath the fun-loving exterior lies a deep well of personal values...",
+            "tertiary": "Extraverted Thinking (Te) - When activated, Te helps them make snap decisions...",
+            "inferior": "Introverted Intuition (Ni) - Their weak spot is long-term vision..."
+        },
+        "core_strengths": [
+            "Charming and magnetic",
+            "Highly observant",
+            "Emotionally expressive",
+            "Flexible and adaptable",
+            "Fun-oriented"
+        ],
+        "core_weaknesses": [
+            "Easily distracted",
+            "Avoidant of discomfort",
+            "Struggle with long-term planning",
+            "Overindulgent",
+            "Conflict averse when it gets too real"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Physical Touch & Acts of Service",
+            "how_they_love": "They love loudly. Whether it\u2019s surprise gifts, lavish attention, or an impromptu romantic getaway...",
+            "how_they_handle_heartbreak": "Initially distracts themselves with activity, fun, and friends\u2014but eventually crashes hard..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Will use humor or deflection to keep things light.",
+            "under_pressure": "May become defensive, emotional, or feel personally attacked.",
+            "growth_response": "Learns to face discomfort, accept differing values..."
+        },
+        "dialogue_style": {
+            "description": "ESFPs speak with animation and flair. Their speech is full of emotion, physical gestures, and vivid sensory detail...",
+            "example_phrases": [
+                "Come on, let\u2019s just try it\u2014what\u2019s the worst that could happen?",
+                "I don\u2019t say I care, I show it.",
+                "We\u2019re alive right now, aren\u2019t we? So let\u2019s live."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Impulsive, emotionally reactive, and running from responsibility.",
+            "growth_journey": "Learning to reflect before acting, honor deeper values...",
+            "mature_version": "An emotionally grounded adventurer who balances joy with depth..."
+        },
+        "ideal_roles_in_story": [
+            "The Comic Relief",
+            "The Wild Card",
+            "The Healer-in-Disguise",
+            "The Spark"
+        ],
+        "works_well_with": [
+            "ISFPs & INFPs",
+            "ENFPs & ENTPs",
+            "ESFJs"
+        ],
+        "struggles_with": [
+            "ISTJs & INTJs",
+            "ISTPs",
+            "ENTJs"
+        ],
+        "writing_prompts": [
+            "What\u2019s the one moment of stillness that shook your ESFP more than any action-packed event?",
+            "What does your ESFP do when their charm doesn\u2019t work\u2014and someone sees through the performance?",
+            "Who grounds your ESFP when they spin out emotionally or impulsively?"
+        ]
+    },
+    "ESFJ": {
+        "nickname": "The Consul",
+        "tagline": "The devoted caretaker. The social glue. The cheerleader of tradition and belonging.",
+        "overview": "ESFJs are warm-hearted organizers who thrive on connection and service...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Feeling (Fe) - Leads with empathy, prioritizing social harmony and emotional wellbeing...",
+            "auxiliary": "Introverted Sensing (Si) - Si makes ESFJs sticklers for tradition and detail...",
+            "tertiary": "Extraverted Intuition (Ne) - Ne, when developed, offers bursts of creative insight...",
+            "inferior": "Introverted Thinking (Ti) - Their weakest function, Ti, can cause internal struggles..."
+        },
+        "core_strengths": [
+            "Generous and supportive",
+            "Reliable and loyal",
+            "Socially savvy",
+            "Detail-oriented",
+            "Community-focused"
+        ],
+        "core_weaknesses": [
+            "Overly self-sacrificing",
+            "Approval-seeking",
+            "Change-averse",
+            "Conflict-avoidant",
+            "Overly sensitive to criticism"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Words of Affirmation",
+            "how_they_love": "Romantic, dependable, and emotionally generous...",
+            "how_they_handle_heartbreak": "They struggle. An ESFJ may bottle up pain..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Avoids it. Tries to smooth things over or act like nothing\u2019s wrong.",
+            "under_pressure": "May break down emotionally or become passive-aggressive...",
+            "growth_response": "Learns to speak their truth and set boundaries..."
+        },
+        "dialogue_style": {
+            "description": "Polished, friendly, and emotionally inclusive. ESFJs communicate with kindness...",
+            "example_phrases": [
+                "I just want everyone to be okay.",
+                "Tell me how I can help.",
+                "You always know how to light up a room\u2014you\u2019ve got this."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "A doormat personality\u2014always saying yes, emotionally drained...",
+            "growth_journey": "Learning to put themselves first sometimes...",
+            "mature_version": "A nurturing leader who supports others without losing their own identity..."
+        },
+        "ideal_roles_in_story": [
+            "The Host or Caregiver",
+            "The Team Parent",
+            "The Reluctant Hero",
+            "The Peacekeeper"
+        ],
+        "works_well_with": [
+            "ISFPs & INFPs",
+            "ESFPs & ENFPs",
+            "ESTJs"
+        ],
+        "struggles_with": [
+            "INTPs & ISTPs",
+            "ENTJs",
+            "ENTPs"
+        ],
+        "writing_prompts": [
+            "What line won\u2019t your ESFJ cross\u2014no matter the stakes?",
+            "How do they react when their loyalty is betrayed?",
+            "When was the last time they did something just for themselves?"
+        ]
+    },
+    "ESTP": {
+        "nickname": "The Entrepreneur",
+        "tagline": "The adrenaline-fueled adventurer. The sharp-witted maverick. The life of the party with a taste for risk.",
+        "overview": "ESTPs are born thrill-seekers who crave action, intensity, and experience...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Sensing (Se) - ESTPs are grounded in the now...",
+            "auxiliary": "Introverted Thinking (Ti) - Ti gives ESTPs a logical, analytical side...",
+            "tertiary": "Extraverted Feeling (Fe) - ESTPs can charm a room when needed...",
+            "inferior": "Introverted Intuition (Ni) - Ni is the ESTP\u2019s blind spot..."
+        },
+        "core_strengths": [
+            "Action-Oriented",
+            "Bold & Charismatic",
+            "Clever Problem-Solvers",
+            "Highly Observant",
+            "Courageous Risk-Takers"
+        ],
+        "core_weaknesses": [
+            "Impatient",
+            "Avoids Abstracts",
+            "Emotionally Detached",
+            "Reckless Under Stress",
+            "Avoids Commitment"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Physical Touch & Acts of Service",
+            "how_they_love": "They\u2019re passionate, playful, and exciting partners...",
+            "how_they_handle_heartbreak": "They try to distract themselves\u2014with work, adrenaline, or someone new..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Snarky, assertive, and quick to act.",
+            "under_pressure": "May deflect or provoke just to keep control...",
+            "growth_response": "Learns to slow down, listen, and consider the emotional or long-term consequences..."
+        },
+        "dialogue_style": {
+            "description": "ESTPs are witty, to the point, and love banter...",
+            "example_phrases": [
+                "Relax, I\u2019ve got this.",
+                "Why plan when we can improvise?",
+                "Danger is just a matter of perspective."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Living moment to moment, avoiding responsibility...",
+            "growth_journey": "Learning to value stillness and reflection...",
+            "mature_version": "A grounded action-hero type\u2014decisive, emotionally present..."
+        },
+        "ideal_roles_in_story": [
+            "The Maverick Hero",
+            "The Charming Rogue",
+            "The Streetwise Survivor",
+            "The Hands-On Specialist"
+        ],
+        "works_well_with": [
+            "INFPs & INFJs",
+            "ESFPs",
+            "ENTPs"
+        ],
+        "struggles_with": [
+            "ISFJs & ISTJs",
+            "INTPs",
+            "ENFJs"
+        ],
+        "writing_prompts": [
+            "What\u2019s the biggest risk your ESTP has taken\u2014and did it pay off?",
+            "When do they realize they can\u2019t charm their way out of a situation?",
+            "What happens when they fall for someone who thrives on quiet and routine?"
+        ]
+    },
+    "ESTJ": {
+        "nickname": "The Executive",
+        "tagline": "The pragmatic commander. The structure-seeker. The dependable doer.",
+        "overview": "ESTJs are the embodiment of order, discipline, and results...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Thinking (Te) - ESTJs lead with Te...",
+            "auxiliary": "Introverted Sensing (Si) - Si supports their practicality with a strong memory...",
+            "tertiary": "Extraverted Intuition (Ne) - When tapped into, Ne allows ESTJs to explore alternative outcomes...",
+            "inferior": "Introverted Feeling (Fi) - Fi is their blind spot..."
+        },
+        "core_strengths": [
+            "Natural leaders",
+            "Highly organized",
+            "Pragmatic thinkers",
+            "Dependable",
+            "Strong work ethic"
+        ],
+        "core_weaknesses": [
+            "Overbearing",
+            "Emotionally blunt",
+            "Rigid",
+            "Impatient",
+            "Judgmental"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Words of Affirmation",
+            "how_they_love": "They express love through doing...",
+            "how_they_handle_heartbreak": "They bury themselves in tasks and pretend they\u2019re fine..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Blunt and assertive.",
+            "under_pressure": "They may become controlling or dismissive of emotional nuance.",
+            "growth_response": "Learning to slow down, listen more..."
+        },
+        "dialogue_style": {
+            "description": "ESTJs speak clearly, decisively, and with authority...",
+            "example_phrases": [
+                "Here\u2019s what we\u2019re going to do.",
+                "That doesn\u2019t make any sense\u2014show me the logic.",
+                "Let\u2019s stop talking about feelings and solve the problem."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Overbearing, emotionally detached, obsessed with control.",
+            "growth_journey": "Learning to balance logic with empathy...",
+            "mature_version": "A wise and balanced leader who leads with both clarity and compassion..."
+        },
+        "ideal_roles_in_story": [
+            "The Commander",
+            "The Reluctant Mentor",
+            "The Enforcer",
+            "The Workhorse"
+        ],
+        "works_well_with": [
+            "ISFJs & ESFJs",
+            "INTPs",
+            "ISTPs"
+        ],
+        "struggles_with": [
+            "INFPs & ENFPs",
+            "INFJs",
+            "ENTPs"
+        ],
+        "writing_prompts": [
+            "What tradition or system do they fiercely protect\u2014and why?",
+            "How do they respond when forced into a situation they can\u2019t control?",
+            "What happens when they\u2019re put in charge of someone completely unlike them?"
+        ]
+    },
+    "ISTJ": {
+        "nickname": "The Logistician",
+        "tagline": "The steadfast realist. The structured soul. The quietly reliable force behind the scenes.",
+        "overview": "ISTJs are the backbone of any functional system\u2014whether it's a team, a family, or a society...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Sensing (Si) - Si makes ISTJs attuned to patterns, history, and detail...",
+            "auxiliary": "Extraverted Thinking (Te) - Te drives their need for order and effectiveness...",
+            "tertiary": "Introverted Feeling (Fi) - Fi develops over time in ISTJs...",
+            "inferior": "Extraverted Intuition (Ne) - Ne is the weakest function for ISTJs..."
+        },
+        "core_strengths": [
+            "Reliable and responsible",
+            "Detail-oriented",
+            "Organized and methodical",
+            "Principled",
+            "Calm under pressure"
+        ],
+        "core_weaknesses": [
+            "Rigid or overly traditional",
+            "Emotionally reserved",
+            "Overly critical",
+            "Risk-averse",
+            "Struggle with spontaneity"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Quality Time",
+            "how_they_love": "They love quietly but deeply...",
+            "how_they_handle_heartbreak": "With stoicism. They bury the pain in routine or work..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Calm but dismissive...",
+            "under_pressure": "Can become blunt, rigid, or withdrawn...",
+            "growth_response": "Learns to empathize with emotional needs..."
+        },
+        "dialogue_style": {
+            "description": "ISTJs are economical with their words...",
+            "example_phrases": [
+                "Let\u2019s stick to what we know works.",
+                "I\u2019ll handle it.",
+                "It\u2019s not personal. It\u2019s just the right way to do it."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Overly rigid, emotionally distant, unwilling to consider alternative perspectives or break from tradition.",
+            "growth_journey": "Learning to open up emotionally, trust intuition, and value adaptability as much as structure.",
+            "mature_version": "A wise guardian who balances tradition with flexibility\u2014deeply reliable but no longer limited by the past."
+        },
+        "ideal_roles_in_story": [
+            "The Strategist",
+            "The Duty-Bound Soldier",
+            "The Stoic Mentor",
+            "The Quiet Protector"
+        ],
+        "works_well_with": [
+            "ISFJs & INFJs",
+            "ESTJs & INTJs",
+            "ESFJs"
+        ],
+        "struggles_with": [
+            "ENFPs & ENTPs",
+            "INFPs",
+            "ESFPs"
+        ],
+        "writing_prompts": [
+            "What tradition would your ISTJ character defend, even when everyone else questions it?",
+            "How do they react when an emotional decision is the only way forward?",
+            "When did they last change their mind\u2014and what did it cost them?",
+            "Who do they protect in quiet ways no one ever sees?"
+        ]
+    },
+    "ISFP": {
+        "nickname": "The Adventurer",
+        "tagline": "The sensitive soul. The quiet creator. The spontaneous spirit with a heart of gold.",
+        "overview": "ISFPs are deeply feeling individuals with a fierce independent streak...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Feeling (Fi) - Fi gives ISFPs a strong internal moral code...",
+            "auxiliary": "Extraverted Sensing (Se) - Se makes ISFPs attuned to their environment...",
+            "tertiary": "Introverted Intuition (Ni) - When developed, Ni adds a layer of future-focus...",
+            "inferior": "Extraverted Thinking (Te) - Te is their weakest function..."
+        },
+        "core_strengths": [
+            "Compassionate and empathetic",
+            "Highly creative",
+            "Independent and non-conforming",
+            "Grounded in the present",
+            "Loyal and devoted"
+        ],
+        "core_weaknesses": [
+            "Conflict-avoidant",
+            "Overly private",
+            "Can seem passive or detached",
+            "Resistant to structure",
+            "Struggle with assertiveness"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Physical Touch",
+            "how_they_love": "ISFPs love quietly but intensely...",
+            "how_they_handle_heartbreak": "In silence. They retreat inward..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Withdraws or shuts down emotionally...",
+            "under_pressure": "May become passive-aggressive...",
+            "growth_response": "Learns to express their needs and stand firm..."
+        },
+        "dialogue_style": {
+            "description": "ISFPs tend to speak softly but meaningfully...",
+            "example_phrases": [
+                "I don\u2019t need much\u2014just something real.",
+                "It\u2019s not about what it looks like. It\u2019s about what it means.",
+                "Let me show you, rather than tell you."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Isolated, undervalued, and emotionally closed off...",
+            "growth_journey": "Embracing vulnerability, asserting themselves...",
+            "mature_version": "An emotionally resilient artist who lives fully..."
+        },
+        "ideal_roles_in_story": [
+            "The Reluctant Hero",
+            "The Artist/Rebel",
+            "The Healer",
+            "The Wild Card"
+        ],
+        "works_well_with": [
+            "ENFPs & ENFJs",
+            "INFPs",
+            "ESFPs"
+        ],
+        "struggles_with": [
+            "ESTJs & ENTJs",
+            "INTPs",
+            "ISTJs"
+        ],
+        "writing_prompts": [
+            "What hidden passion drives your ISFP to create?",
+            "How do they react when forced into a leadership role?",
+            "What is their breaking point in a relationship built on silence?"
+        ]
+    },
+    "ISFJ": {
+        "nickname": "The Defender",
+        "tagline": "The quiet guardian. The memory keeper. The loyal protector of what's meaningful.",
+        "overview": "ISFJs are the unsung heroes of any ensemble\u2014the ones working quietly behind the scenes...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Sensing (Si) - Si is the ISFJ\u2019s anchor...",
+            "auxiliary": "Extraverted Feeling (Fe) - Fe drives them to take care of others emotionally...",
+            "tertiary": "Introverted Thinking (Ti) - Ti supports quiet problem-solving...",
+            "inferior": "Extraverted Intuition (Ne) - Ne is their weakest function..."
+        },
+        "core_strengths": [
+            "Loyal and dependable",
+            "Detail-oriented",
+            "Compassionate caregivers",
+            "Responsible and grounded",
+            "Excellent listeners"
+        ],
+        "core_weaknesses": [
+            "Conflict-avoidant",
+            "Overly traditional",
+            "Underappreciated",
+            "Emotionally burdened",
+            "Reluctant to delegate"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Quality Time",
+            "how_they_love": "They love through presence, service, and subtle care...",
+            "how_they_handle_heartbreak": "Heartbreak is quietly devastating. ISFJs often withdraw..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Internalizes issues, hoping they\u2019ll pass.",
+            "under_pressure": "May shut down or retreat emotionally...",
+            "growth_response": "Learns to speak up about their needs early..."
+        },
+        "dialogue_style": {
+            "description": "ISFJs speak with kindness, caution, and care...",
+            "example_phrases": [
+                "I just want to make sure you\u2019re okay.",
+                "That\u2019s not how we usually do things\u2014but I can try.",
+                "If there\u2019s anything I can do to help, just say the word."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Burnt out, overly self-sacrificing, quietly resentful...",
+            "growth_journey": "Embracing flexibility (Ne), setting healthy boundaries...",
+            "mature_version": "A balanced caregiver who offers quiet strength..."
+        },
+        "ideal_roles_in_story": [
+            "The Loyal Retainer",
+            "The Community Healer",
+            "The Archivist or Keeper of Lore",
+            "The Reluctant Hero"
+        ],
+        "works_well_with": [
+            "ESFJs",
+            "ENFPs",
+            "INFJs",
+            "ISFPs"
+        ],
+        "struggles_with": [
+            "ENTPs & ENFPs (when immature)",
+            "INTJs",
+            "ESTPs"
+        ],
+        "writing_prompts": [
+            "What tradition or memory anchors your ISFJ character\u2014and what happens when it's challenged?",
+            "Who do they serve so faithfully, and what happens if that person fails them?",
+            "How do they express love when words are hard to find?"
+        ]
+    },
+    "ISTP": {
+        "nickname": "The Virtuoso",
+        "tagline": "The pragmatic builder. The adaptable lone wolf. The quiet master of mechanics and motion.",
+        "overview": "ISTPs are fiercely independent and action-oriented, preferring hands-on learning and real-world problem solving...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Thinking (Ti) - ISTPs lead with logic that is intensely internal...",
+            "auxiliary": "Extraverted Sensing (Se) - Se makes ISTPs highly aware of their surroundings...",
+            "tertiary": "Introverted Intuition (Ni) - While less developed, Ni gives ISTPs a gut-level sense...",
+            "inferior": "Extraverted Feeling (Fe) - Fe is their weakest function..."
+        },
+        "core_strengths": [
+            "Resourceful and adaptable",
+            "Action-oriented",
+            "Cool under pressure",
+            "Independent thinkers",
+            "Practical and hands-on"
+        ],
+        "core_weaknesses": [
+            "Emotionally reserved",
+            "Impulsive",
+            "Noncommittal",
+            "Struggle with group expectations",
+            "Avoid emotional vulnerability"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Physical Touch",
+            "how_they_love": "ISTPs are deeply loyal to those they care for...",
+            "how_they_handle_heartbreak": "With silence. They disappear into hobbies or distractions..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Detached and rational. Tries to fix the problem pragmatically...",
+            "under_pressure": "May withdraw completely...",
+            "growth_response": "Learns to acknowledge others' feelings and communicate..."
+        },
+        "dialogue_style": {
+            "description": "ISTPs speak sparingly but precisely...",
+            "example_phrases": [
+                "Give me five minutes\u2014I\u2019ll fix it.",
+                "I don\u2019t do drama. Let\u2019s just solve it.",
+                "You don\u2019t have to say anything. Just be here."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Emotionally aloof, detached from others...",
+            "growth_journey": "Learning to engage with emotional nuance...",
+            "mature_version": "A calm, centered problem-solver who honors both logic and emotional truth..."
+        },
+        "ideal_roles_in_story": [
+            "The Rogue or Maverick",
+            "The Tech Expert or Mechanic",
+            "The Lone Protector",
+            "The Reluctant Hero"
+        ],
+        "works_well_with": [
+            "INTPs & ISTJs",
+            "ESFPs & ESTPs",
+            "INFPs"
+        ],
+        "struggles_with": [
+            "ENFJs & ESFJs",
+            "ENTJs",
+            "ENFPs"
+        ],
+        "writing_prompts": [
+            "What\u2019s the one thing they built or fixed that they secretly care about more than they admit?",
+            "How do they respond when forced into a leadership role they didn\u2019t ask for?",
+            "What\u2019s the moment they realize logic won\u2019t fix what\u2019s broken?"
+        ]
+    },
+    "INFJ": {
+        "nickname": "The Sage",
+        "tagline": "The introspective visionary. The silent storm. The soul behind the scenes of every great narrative.",
+        "overview": "INFJs are complex, mysterious, and profoundly idealistic. Often described as old souls...",
+        "cognitive_function_stack": {
+            "dominant": "Introverted Intuition (Ni) - Ni drives INFJs to seek patterns, symbolism...",
+            "auxiliary": "Extraverted Feeling (Fe) - Fe helps INFJs tune in to the emotions of others...",
+            "tertiary": "Introverted Thinking (Ti) - Ti provides INFJs with quiet analytical strength...",
+            "inferior": "Extraverted Sensing (Se) - Se is their blind spot..."
+        },
+        "core_strengths": [
+            "Visionary foresight",
+            "Empathic and compassionate",
+            "Purpose-driven",
+            "Loyal and quietly determined",
+            "Introspective and reflective"
+        ],
+        "core_weaknesses": [
+            "Overly private",
+            "Perfectionistic",
+            "Conflict-averse",
+            "Emotionally overwhelmed",
+            "Detached from the present"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Quality Time & Acts of Service",
+            "how_they_love": "With soul-deep devotion. INFJs don\u2019t love lightly...",
+            "how_they_handle_heartbreak": "Silently and internally. INFJs may vanish into isolation..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Withdraws, avoids immediate confrontation to maintain peace.",
+            "under_pressure": "May internalize blame or shut down emotionally.",
+            "growth_response": "Learns to articulate their needs and boundaries directly..."
+        },
+        "dialogue_style": {
+            "description": "INFJs speak with depth and purpose. Their words are often poetic, insightful...",
+            "example_phrases": [
+                "I just need some time to process.",
+                "What matters most is why we\u2019re doing this.",
+                "I feel like there\u2019s something more going on here.",
+                "Your pain matters. You matter."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Disconnected from the present, emotionally isolated...",
+            "growth_journey": "Learning to stay grounded, speak up for their needs...",
+            "mature_version": "A wise visionary who walks in compassion, clarity, and healthy boundaries..."
+        },
+        "ideal_roles_in_story": [
+            "The Mystic or Oracle",
+            "The Hidden Leader",
+            "The Empathic Rebel",
+            "The Wounded Healer"
+        ],
+        "works_well_with": [
+            "ENFPs & ENFJs",
+            "INTPs",
+            "ISFJs"
+        ],
+        "struggles_with": [
+            "ESTPs",
+            "ENTJs",
+            "ISTJs"
+        ],
+        "writing_prompts": [
+            "What vision or purpose drives your INFJ, even when the world doesn\u2019t believe in it?",
+            "What part of themselves do they keep hidden, and why?",
+            "How do they react when their idealism is shattered?",
+            "Who helps them reconnect with the present moment?"
+        ]
+    },
+    "ENTP": {
+        "nickname": "The Debater",
+        "tagline": "The relentless idea machine. The playful provocateur. The agent of chaos with a heart of gold.",
+        "overview": "ENTPs are the universe\u2019s answer to the question: 'What if a hurricane had charm?'...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Intuition (Ne) - The crown jewel of the ENTP psyche...",
+            "auxiliary": "Introverted Thinking (Ti) - Ti gives their wild ideas structure...",
+            "tertiary": "Extraverted Feeling (Fe) - When developed, Fe brings emotional intelligence...",
+            "inferior": "Introverted Sensing (Si) - Si is the ghost at the ENTP\u2019s brainstorm party..."
+        },
+        "core_strengths": [
+            "Inventive",
+            "Fearless risk-takers",
+            "Witty and persuasive",
+            "Independent thinkers",
+            "Energetic and adaptable"
+        ],
+        "core_weaknesses": [
+            "Easily bored",
+            "Argumentative",
+            "Overcommit to ideas",
+            "Dismiss structure",
+            "Insensitive when distracted"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Words of Affirmation & Acts of Service",
+            "how_they_love": "ENTPs are bold, spontaneous, and full of surprises...",
+            "how_they_handle_heartbreak": "They\u2019ll joke about it at first, probably throw themselves into a dozen new projects..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Challenge accepted. ENTPs lean into conflict like it\u2019s a sparring match...",
+            "under_pressure": "They may deflect with humor, push harder with logic...",
+            "growth_response": "They learn when to listen instead of win..."
+        },
+        "dialogue_style": {
+            "description": "ENTPs speak in half-formed brilliance and full-volume enthusiasm...",
+            "example_phrases": [
+                "Wait, hear me out\u2014what if we tried it completely backwards?",
+                "I\u2019m not being difficult. I\u2019m being thoroughly curious.",
+                "Okay but have you considered that chaos is actually... efficient?"
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "A charming whirlwind of half-finished projects...",
+            "growth_journey": "Learning to slow down, follow through, and care about impact...",
+            "mature_version": "A dynamic, emotionally intelligent visionary who leads with ideas and integrity..."
+        },
+        "ideal_roles_in_story": [
+            "The Trickster Mentor",
+            "The Maverick Inventor",
+            "The Reluctant Hero",
+            "The Disruptor"
+        ],
+        "works_well_with": [
+            "INFJs",
+            "INTPs",
+            "ENFPs",
+            "ENTPs (other)"
+        ],
+        "struggles_with": [
+            "ISFJs",
+            "ISTJs",
+            "ESFJs"
+        ],
+        "writing_prompts": [
+            "What happens when your ENTP is forced to commit\u2014fully\u2014to one idea or person?",
+            "How do they react when someone tells them they\u2019ve gone 'too far'?",
+            "What\u2019s the one value they won\u2019t joke about?",
+            "How do they handle being wrong\u2014publicly?"
+        ]
+    },
+    "ENTJ": {
+        "nickname": "The Commander",
+        "tagline": "The relentless strategist. The bold visionary. The high-functioning chaos-tamer with a five-year plan.",
+        "overview": "ENTJs are born to lead\u2014and not in a 'let me help' kind of way, but more like 'step aside, I\u2019ve optimized the entire mission and we leave in ten.'...",
+        "cognitive_function_stack": {
+            "dominant": "Extraverted Thinking (Te) - Te gives ENTJs their commanding presence...",
+            "auxiliary": "Introverted Intuition (Ni) - Ni fuels their strategic long-range thinking...",
+            "tertiary": "Extraverted Sensing (Se) - Se, when developed, helps ENTJs enjoy the present...",
+            "inferior": "Introverted Feeling (Fi) - Fi is the deeply buried emotional compass..."
+        },
+        "core_strengths": [
+            "Visionary Thinkers",
+            "Efficient Organizers",
+            "Fearless Leaders",
+            "Resilient and Unyielding",
+            "Goal-Oriented to the Core"
+        ],
+        "core_weaknesses": [
+            "Emotionally Detached",
+            "Impatient",
+            "Domineering",
+            "Resistant to Vulnerability",
+            "Overly Critical"
+        ],
+        "love_language_relationships": {
+            "primary_love_languages": "Acts of Service & Words of Affirmation",
+            "how_they_love": "ENTJs love through action. They\u2019ll build you a business, plan your five-year career trajectory...",
+            "how_they_handle_heartbreak": "Logically\u2026at first. They\u2019ll throw themselves into work or strategy to 'solve' the pain..."
+        },
+        "conflict_style": {
+            "initial_reaction": "Blunt, direct, and ready to solve it before anyone\u2019s finished their sentence.",
+            "under_pressure": "Becomes controlling, overly critical, or dismissive of emotional perspectives.",
+            "growth_response": "Learns to pause, listen, and validate emotional needs instead of steamrolling them."
+        },
+        "dialogue_style": {
+            "description": "ENTJs speak with authority. Their words are sharp, efficient, and usually goal-driven...",
+            "example_phrases": [
+                "We don\u2019t have time to debate\u2014we need results.",
+                "I believe in your potential. Now go prove me right.",
+                "Emotion doesn\u2019t negate logic. We can acknowledge both."
+            ]
+        },
+        "growth_arc_potential": {
+            "unhealthy_starting_point": "Controlling, emotionally unavailable, hyper-focused on achievement...",
+            "growth_journey": "Learning to integrate Fi, consider others\u2019 perspectives...",
+            "mature_version": "A balanced powerhouse\u2014strategic, inspiring, and empathetic..."
+        },
+        "ideal_roles_in_story": [
+            "The Commander",
+            "The Villain You Almost Agree With",
+            "The Reformed Tyrant",
+            "The Reluctant Ally"
+        ],
+        "works_well_with": [
+            "INTPs & INFPs",
+            "ENFPs & ENTPs",
+            "ISTJs"
+        ],
+        "struggles_with": [
+            "ISFPs & INFPs",
+            "ESFPs & ENFPs (when underdeveloped)",
+            "Other ENTJs"
+        ],
+        "writing_prompts": [
+            "What would your ENTJ sacrifice to achieve their dream\u2014and would they regret it?",
+            "What\u2019s the one thing they can\u2019t control that completely unravels them?",
+            "How do they handle leading a team that challenges their vision?",
+            "Who do they turn to when logic fails and emotion takes over?"
+        ]
+    }
+}

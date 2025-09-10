@@ -2523,5 +2523,7 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-      }
-    },
+    ]
+    }
+  }
+]

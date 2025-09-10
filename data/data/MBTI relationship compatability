@@ -1,1790 +1,157 @@
 [
   {
-      "type": "ENFJ",
-      "nickname": "The Protagonist",
-      "tagline": "The charismatic idealist. The emotional architect. The rallying heart of any ensemble.",
-      "overview": "ENFJs are charismatic, empathetic, and driven to uplift others. They value deep connection, shared values, and growth; they express love through encouragement, affection, and acts of service.",
-      "love_languages": {
-        "give": [
-          "Emotional support & encouragement",
-          "Thoughtful plans & quality time",
-          "Helping partner achieve goals"
-        ],
-        "receive": [
-          "Words of affirmation",
-          "Emotional availability & vulnerability",
-          "Acts of service"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Brings structure and reliability to ENFJ’s vision.",
-          "challenges": "Can feel emotionally cold or rigid; pacing mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared dedication to harmony, loyalty, and care.",
-          "challenges": "Mutual conflict-avoidance can bury issues.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Focus and discipline balance ENFJ warmth.",
-          "challenges": "Task-focus may bulldoze emotional needs.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Social, nurturing, connection-first pairing.",
-          "challenges": "Can overextend for others and burn out.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Independence balances ENFJ’s people-focus.",
-          "challenges": "Reserved affect can frustrate need for openness.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Authenticity + creative depth resonate with ENFJ.",
-          "challenges": "Space vs. closeness rhythm needs alignment.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Excitement meets emotional grounding—great spark.",
-          "challenges": "Impulsivity can destabilize values-driven ENFJ.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Energizing, social, and affectionate duo.",
-          "challenges": "Fun can crowd out repair and logistics.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Vision + heart = powerhouse strategy and morale.",
-          "challenges": "Stoicism vs. emotional openness gap.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Depth, ideals, and meaning align strongly.",
-          "challenges": "Mutual overextension in service to others.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Drive meets empathy; high-achiever pairing.",
-          "challenges": "Bluntness can overwhelm sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Shared empathy and purpose; easy resonance.",
-          "challenges": "Double people-pleasing and conflict avoidance.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Intellectual curiosity meets emotional grounding.",
-          "challenges": "Aloofness can leave ENFJ feeling unseen.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared ideals, compassion, and growth.",
-          "challenges": "Can delay hard, pragmatic conversations.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Stimulation + meaning; dynamic and creative.",
-          "challenges": "Relentless debating can exhaust harmony needs.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Enthusiastic, growth-oriented, people-focused.",
-          "challenges": "Routine/maintenance can be neglected.",
-          "notes": ""
-        }
+    "type": "ENFJ",
+    "nickname": "The Protagonist",
+    "tagline": "The charismatic idealist. The emotional architect. The rallying heart of any ensemble.",
+    "overview": "ENFJs are charismatic, empathetic, and driven to uplift others. They value deep connection, shared values, and growth; they express love through encouragement, affection, and acts of service.",
+    "love_languages": {
+      "give": [
+        "Emotional support & encouragement",
+        "Thoughtful plans & quality time",
+        "Helping partner achieve goals"
       ],
-      "compatibility_distribution": {
-        "counts": {
-          "challenging": 2,
-          "very_high": 5,
-          "moderate": 4,
-          "high": 5,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
+      "receive": [
+        "Words of affirmation",
+        "Emotional availability & vulnerability",
+        "Acts of service"
+      ]
     },
-    {
-      "type": "ENFP",
-      "nickname": "The Campaigner",
-      "tagline": "The imaginative catalyst. The radiant connector. The champion of possibility.",
-      "overview": "ENFPs are enthusiastic and values-driven. They crave authentic connection, exploration, and growth; they express love through affection, spontaneity, and belief in their partner’s dreams.",
-      "love_languages": {
-        "give": [
-          "Affection via words/touch/time",
-          "Encouraging partner’s dreams",
-          "Spontaneous adventures"
-        ],
-        "receive": [
-          "Emotional availability & deep talks",
-          "Affirmation of ideas & feelings",
-          "Flexibility & openness"
-        ]
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Brings structure and reliability to ENFJ’s vision.",
+        "challenges": "Can feel emotionally cold or rigid; pacing mismatch.",
+        "notes": ""
       },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Brings stabilizing structure to ENFP’s creativity.",
-          "challenges": "Routine vs. flexibility friction.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Supportive warmth meets enthusiasm.",
-          "challenges": "Stability vs. adventure pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Structure meets imagination.",
-          "challenges": "Efficiency focus vs. free spirit.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Connection-forward and expressive duo.",
-          "challenges": "Tradition vs. novelty tensions.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Independence + emotional spark.",
-          "challenges": "Reserve vs. connection needs.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared authenticity and creative freedom.",
-          "challenges": "Conflict avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Adventure, spontaneity, and fun align.",
-          "challenges": "Planning can lag.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Social joy and vibrant warmth.",
-          "challenges": "Serious topics can be postponed.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Vision + warmth; excellent complement.",
-          "challenges": "Order vs. flexibility friction.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Depth, ideals, and growth align.",
-          "challenges": "Outward energy vs. inward focus balance.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Leadership meets creativity and morale.",
-          "challenges": "Assertiveness can overwhelm at times.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Emotionally rich, growth-focused pairing.",
-          "challenges": "Self-neglect via over-helping.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Ideas meet warmth; stimulating duo.",
-          "challenges": "Solitude vs. connection rhythm.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared values and soulful bond.",
-          "challenges": "Conflict and pragmatics can lag.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Ideas, spontaneity, and play.",
-          "challenges": "Depth requires intention.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared enthusiasm and meaning.",
-          "challenges": "Follow-through challenges.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 3,
-          "high": 5,
-          "very_high": 8,
-          "challenging": 0,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
+      {
+        "type": "ISFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared dedication to harmony, loyalty, and care.",
+        "challenges": "Mutual conflict-avoidance can bury issues.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Focus and discipline balance ENFJ warmth.",
+        "challenges": "Task-focus may bulldoze emotional needs.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Social, nurturing, connection-first pairing.",
+        "challenges": "Can overextend for others and burn out.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Independence balances ENFJ’s people-focus.",
+        "challenges": "Reserved affect can frustrate need for openness.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Authenticity + creative depth resonate with ENFJ.",
+        "challenges": "Space vs. closeness rhythm needs alignment.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Excitement meets emotional grounding—great spark.",
+        "challenges": "Impulsivity can destabilize values-driven ENFJ.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Energizing, social, and affectionate duo.",
+        "challenges": "Fun can crowd out repair and logistics.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Vision + heart = powerhouse strategy and morale.",
+        "challenges": "Stoicism vs. emotional openness gap.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Depth, ideals, and meaning align strongly.",
+        "challenges": "Mutual overextension in service to others.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Drive meets empathy; high-achiever pairing.",
+        "challenges": "Bluntness can overwhelm sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Shared empathy and purpose; easy resonance.",
+        "challenges": "Double people-pleasing and conflict avoidance.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Intellectual curiosity meets emotional grounding.",
+        "challenges": "Aloofness can leave ENFJ feeling unseen.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared ideals, compassion, and growth.",
+        "challenges": "Can delay hard, pragmatic conversations.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Stimulation + meaning; dynamic and creative.",
+        "challenges": "Relentless debating can exhaust harmony needs.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Enthusiastic, growth-oriented, people-focused.",
+        "challenges": "Routine/maintenance can be neglected.",
+        "notes": ""
       }
-    },
-    {
-      "type": "ENTP",
-      "nickname": "The Debater",
-      "tagline": "The idea-sparking provocateur. The playful challenger. The improviser of possibilities.",
-      "overview": "ENTPs are energetic, curious, and thrive on novelty and debate. They show love via humor, shared adventures, and mental play.",
-      "love_languages": {
-        "give": [
-          "Stimulating debate & ideas",
-          "Spontaneous adventures",
-          "Playful teasing & humor"
-        ],
-        "receive": [
-          "Witty banter & engagement",
-          "Encouragement of ideas",
-          "Respect for independence"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Stability meets innovation.",
-          "challenges": "Routine vs. change tension.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Grounding warmth balances energy.",
-          "challenges": "Craves stability vs. novelty.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Challenge-oriented, decisive duo.",
-          "challenges": "Playfulness vs. task-focus clashes.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Social harmony with spark.",
-          "challenges": "Tradition vs. experimentation friction.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Hands-on minds; quiet synergy.",
-          "challenges": "Chatter vs. quiet time gap.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Creativity meets energy.",
-          "challenges": "Debate can stress peace-seeking ISFP.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Fast-paced, adventurous equals.",
-          "challenges": "Planning deficit risk.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Fun-first explorers.",
-          "challenges": "Depth/planning can be deferred.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Strategy + ideation.",
-          "challenges": "Spontaneity vs. long-range plans.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Meaning + novelty.",
-          "challenges": "Debate style can overwhelm sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Ambitious, innovative power-pair.",
-          "challenges": "Potential control battles.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Heart + ideas; engaging growth.",
-          "challenges": "Harmony vs. debate tension.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Kindred thinkers; endless ideas.",
-          "challenges": "Feelings can be sidelined.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Depth meets play.",
-          "challenges": "Debate vs. peace need mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared curiosity and speed.",
-          "challenges": "Emotions may be bypassed.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Creative, high-energy match.",
-          "challenges": "Structure may lag.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 5,
-          "high": 5,
-          "very_high": 6,
-          "challenging": 0,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "INFP",
-      "nickname": "The Mediator",
-      "tagline": "The compassionate idealist. The inner light. The guardian of meaning.",
-      "overview": "INFPs are idealistic, empathetic, and introspective. They seek authenticity and deep bonds; they love through empathy, thoughtful gestures, and steadfast support.",
-      "love_languages": {
-        "give": [
-          "Deep empathy & support",
-          "Personalized thoughtful gestures",
-          "Championing partner’s values"
-        ],
-        "receive": [
-          "Emotional vulnerability & connection",
-          "Affirming words",
-          "Respect for ideals & space"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Reliability steadies ideals.",
-          "challenges": "Practicality vs. idealism tension.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Kindness, loyalty, and care.",
-          "challenges": "Routine vs. spontaneity pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Structure can help growth.",
-          "challenges": "Assertiveness can overwhelm sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Warmth balances introspection.",
-          "challenges": "High social needs can drain INFP.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Independence complements depth.",
-          "challenges": "Detachment frustrates need for closeness.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared authenticity and artistry.",
-          "challenges": "Conflict avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Excitement can be enlivening.",
-          "challenges": "Impulsivity vs. reflection mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Joy meets meaning.",
-          "challenges": "Present-focus vs. future ideals.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Vision + values; rich growth.",
-          "challenges": "Strict logic can chafe idealism.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Soul-level understanding.",
-          "challenges": "Mutual conflict avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Drive meets depth.",
-          "challenges": "Forcefulness can overwhelm.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared ideals and nurturance.",
-          "challenges": "Pace/energy differences.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Ideas + values synergy.",
-          "challenges": "Aloofness vs. connection needs.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared empathy and meaning.",
-          "challenges": "Practical/logistical gaps.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Novelty meets heart.",
-          "challenges": "Debate style can sting.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Creativity and cause alignment.",
-          "challenges": "Follow-through challenges.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 5,
-          "high": 4,
-          "challenging": 2,
-          "very_high": 5,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "INTP",
-      "nickname": "The Logician",
-      "tagline": "The pattern hunter. The systems tinkerer. The quiet innovator.",
-      "overview": "INTPs are analytical and independent, craving depth and autonomy. They show love via ideas, problem-solving, and quiet presence.",
-      "love_languages": {
-        "give": [
-          "Shared intellectual pursuits",
-          "Thoughtful solutions",
-          "Respect for autonomy"
-        ],
-        "receive": [
-          "Deep conversation",
-          "Patience with introspection",
-          "Respect for solitude"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Order meets abstract analysis.",
-          "challenges": "Rules vs. exploration conflict.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Supportive warmth with ideas.",
-          "challenges": "Routine vs. spontaneity tension.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Execution meets innovation.",
-          "challenges": "Efficiency focus vs. theory depth.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Warmth + thought can work.",
-          "challenges": "Emotion focus vs. logic-first friction.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Independent problem-solvers.",
-          "challenges": "Feelings may be sidelined.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Artistry + analysis.",
-          "challenges": "Emotional needs may be missed.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Action + ideas pairing.",
-          "challenges": "Impulse vs. contemplation pace.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Energy meets insight.",
-          "challenges": "Fun focus vs. introspection gap.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Strategic, deep-thinking synergy.",
-          "challenges": "Intentional work on emotions needed.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Meaningful talks & growth.",
-          "challenges": "Emotional asks can feel heavy.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Bold leadership + innovation.",
-          "challenges": "Directness can feel intense.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Warmth + intellect.",
-          "challenges": "Harmony vs. blunt logic tension.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Kindred thinkers.",
-          "challenges": "Emotional avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Values + ideas blend.",
-          "challenges": "Idealism vs. logic clashes.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Debate partners-in-crime.",
-          "challenges": "Intimacy can be deferred.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Creativity + theory.",
-          "challenges": "Connection vs. independence rhythm.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 5,
-          "challenging": 3,
-          "high": 5,
-          "very_high": 3,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "ENTJ",
-      "nickname": "The Commander",
-      "tagline": "The strategic driver. The builder of systems. The force for outcomes.",
-      "overview": "ENTJs are decisive leaders who value efficiency and vision. They love through planning, problem-solving, and championing growth.",
-      "love_languages": {
-        "give": [
-          "Leading & future planning",
-          "Practical support & solutions",
-          "Pushing for growth"
-        ],
-        "receive": [
-          "Intellectual sparring",
-          "Respect for ambition",
-          "Clear goals & communication"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Aligned on structure, standards, and planning.",
-          "challenges": "Tradition vs. innovation tension.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Care + drive balance.",
-          "challenges": "Assertiveness can overwhelm sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Operational excellence duo.",
-          "challenges": "Power struggles without clear lanes.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Social ease complements intensity.",
-          "challenges": "Harmony vs. bluntness friction.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Independent, capable counterpart.",
-          "challenges": "Spontaneity vs. strategy pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Creativity adds warmth.",
-          "challenges": "Present-focus vs. future-focus.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Challenge-loving action partners.",
-          "challenges": "Impulsivity vs. planning gaps.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Enthusiasm lightens intensity.",
-          "challenges": "Goal-drive vs. fun-first mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Strategic, ambitious equals.",
-          "challenges": "Emotions may be minimized.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Insight + leadership synergy.",
-          "challenges": "Intensity can tax sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared drive and standards.",
-          "challenges": "Control conflicts possible.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Vision + empathy; inspiring pair.",
-          "challenges": "Logic vs. emotion priorities.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Innovation meets execution.",
-          "challenges": "Abstract vs. pragmatic tension.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Values add depth.",
-          "challenges": "Idealism vs. practicality friction.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Debate, innovation, big goals.",
-          "challenges": "Competitive sparks to manage.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Creativity fuels momentum.",
-          "challenges": "Spontaneity vs. order mismatch.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "high": 6,
-          "moderate": 4,
-          "very_high": 5,
-          "challenging": 1,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "INFJ",
-      "nickname": "The Advocate",
-      "tagline": "The visionary empath. The meaning-maker. The principled guide.",
-      "overview": "INFJs are compassionate, insightful idealists seeking depth and authenticity. They love via support, thoughtful care, and loyalty.",
-      "love_languages": {
-        "give": [
-          "Emotional support & understanding",
-          "Thoughtful gestures",
-          "Encouraging growth"
-        ],
-        "receive": [
-          "Authentic vulnerability",
-          "Affirming words & actions",
-          "Respect for ideals & space"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Stability steadies ideals.",
-          "challenges": "Practical vs. idealist priorities.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Loyal, compassionate resonance.",
-          "challenges": "Tradition vs. vision friction.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Structure plus depth.",
-          "challenges": "Assertiveness can tax sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Harmony-forward pairing.",
-          "challenges": "Norms vs. independence tension.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Spontaneity meets depth.",
-          "challenges": "Detachment vs. connection needs.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Authenticity + growth.",
-          "challenges": "Present vs. future focus.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Energy meets meaning.",
-          "challenges": "Impulsivity vs. structure.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Joy plus depth.",
-          "challenges": "Present-focus vs. long-term vision.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared depth and strategy.",
-          "challenges": "Logic may miss feeling cues.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Soulful alignment.",
-          "challenges": "Idealism and conflict avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Leadership + emotional intel.",
-          "challenges": "Intensity management needed.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared values and service.",
-          "challenges": "Self-neglect via over-helping.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Deep talks and growth.",
-          "challenges": "Emotional asks can feel heavy.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Authenticity and shared ideals.",
-          "challenges": "Practicalities may lag.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Excitement meets depth.",
-          "challenges": "Debate style can overwhelm.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Meaningful, enthusiastic bond.",
-          "challenges": "Spontaneity vs. structure balance.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 5,
-          "high": 5,
-          "challenging": 1,
-          "very_high": 5,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "INTJ",
-      "nickname": "The Architect",
-      "tagline": "The strategic futurist. The independent optimizer. The long-game planner.",
-      "overview": "INTJs are vision-driven strategists who value competence and autonomy. They love through commitment, solutions, and intentional planning.",
-      "love_languages": {
-        "give": [
-          "Practical solutions & advice",
-          "Loyal long-term commitment",
-          "Thoughtful future planning"
-        ],
-        "receive": [
-          "Intellectual engagement",
-          "Respect for independence",
-          "Calm emotional support"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Aligned on responsibility and systems.",
-          "challenges": "Emotion expression can lag.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Warmth softens pragmatism.",
-          "challenges": "Routine vs. vision pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Goal-driven efficiency.",
-          "challenges": "Control/authority collisions possible.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Social ease complements strategy.",
-          "challenges": "Emotion-first vs. logic-first.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Independent problem-solvers.",
-          "challenges": "Spontaneity vs. planning.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Artistry enriches vision.",
-          "challenges": "Present vs. future tension.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Energy can jumpstart plans.",
-          "challenges": "Impulsivity vs. structure.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Joyful contrast.",
-          "challenges": "Fun-first vs. long-term focus.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared strategy and autonomy.",
-          "challenges": "Emotions easily minimized.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Depth + purpose alignment.",
-          "challenges": "Feeling needs attention.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Ambitious, strategic duo.",
-          "challenges": "Power boundaries needed.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Warmth meets vision.",
-          "challenges": "Emotion vs. logic calibration.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Idea-rich synergy.",
-          "challenges": "Intimacy requires intention.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Values add nuance.",
-          "challenges": "Idealism vs. pragmatism.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Debate fuels innovation.",
-          "challenges": "Spontaneity vs. structure.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Creativity energizes.",
-          "challenges": "Need agreement on pace/structure.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "high": 6,
-          "moderate": 6,
-          "challenging": 1,
-          "very_high": 3,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "ESFP",
-      "nickname": "The Entertainer",
-      "tagline": "The radiant spark. The joy-bringer. The heart-on-sleeve adventurer.",
-      "overview": "ESFPs are energetic and affectionate, thriving on shared experiences and connection. They love via play, presence, and warmth.",
-      "love_languages": {
-        "give": [
-          "Fun plans & adventures",
-          "Enthusiastic support",
-          "Affection via touch & words"
-        ],
-        "receive": [
-          "Quality time",
-          "Emotional availability",
-          "Spontaneous gestures"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Stability meets sparkle.",
-          "challenges": "Order vs. freedom friction.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Warm support + shared joy.",
-          "challenges": "Routine vs. spontaneity mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Structure + fun blend.",
-          "challenges": "Efficiency vs. carefree tension.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Social warmth and shared experiences.",
-          "challenges": "Conflict avoidance risk.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Practical + playful synergy.",
-          "challenges": "Independence vs. connection pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Creative, present-focused bond.",
-          "challenges": "Planning & conflict skills needed.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Adventure equals.",
-          "challenges": "Commitment/planning challenges.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Mutual enthusiasm and affection.",
-          "challenges": "Lack of structure instability.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Vision steadies spontaneity.",
-          "challenges": "Planning vs. present-focus tension.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Depth meets joy.",
-          "challenges": "Introspection can feel distant.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Drive + energy pairing.",
-          "challenges": "Goal-drive vs. fun-first pacing.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Emotional connection + shared life.",
-          "challenges": "Harmony-first can hide issues.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Ideas + energy.",
-          "challenges": "Quiet needs vs. social lifestyle.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Authenticity + joy.",
-          "challenges": "Idealism vs. present-focus.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Play + ideas + novelty.",
-          "challenges": "Follow-through risk.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Creativity and warmth.",
-          "challenges": "Structure/maintenance gaps.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 4,
-          "high": 5,
-          "very_high": 7,
-          "challenging": 0,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "ESTP",
-      "nickname": "The Entrepreneur",
-      "tagline": "The kinetic maverick. The sharp-eyed improviser. The thrill-forward problem-solver.",
-      "overview": "ESTPs are adventurous and adaptable, showing love through action, presence, and shared experiences.",
-      "love_languages": {
-        "give": [
-          "Exciting plans & activities",
-          "Playful banter & companionship",
-          "Action-based affection"
-        ],
-        "receive": [
-          "Appreciation for spontaneity",
-          "Open but light emotional tone",
-          "Respect for independence"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Order steadies spontaneity.",
-          "challenges": "Rules vs. flexibility.",
-          "notes": ""
-        },
-        {
-          "type": "ISFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Care balances adventure.",
-          "challenges": "Sensitivity vs. bluntness.",
-          "notes": ""
-        },
-        {
-          "type": "ESTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Action-oriented partners.",
-          "challenges": "Structure vs. spontaneity management.",
-          "notes": ""
-        },
-        {
-          "type": "ESFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Warmth complements energy.",
-          "challenges": "Impulsiveness can stress harmony.",
-          "notes": ""
-        },
-        {
-          "type": "ISTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Independent, hands-on equals.",
-          "challenges": "Emotion talk can be scarce.",
-          "notes": ""
-        },
-        {
-          "type": "ISFP",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Creative, easygoing pairing.",
-          "challenges": "Directness can sting sensitivity.",
-          "notes": ""
-        },
-        {
-          "type": "ESTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Shared love of adventure.",
-          "challenges": "Planning/commitment gaps.",
-          "notes": ""
-        },
-        {
-          "type": "ESFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Social, fun-first duo.",
-          "challenges": "Responsibilities can be ignored.",
-          "notes": ""
-        },
-        {
-          "type": "INTJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Vision + action.",
-          "challenges": "Structure vs. impulse tension.",
-          "notes": ""
-        },
-        {
-          "type": "INFJ",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Depth meets thrill.",
-          "challenges": "Introspection vs. speed mismatch.",
-          "notes": ""
-        },
-        {
-          "type": "ENTJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Challenge-loving builders.",
-          "challenges": "Control battles if unmanaged.",
-          "notes": ""
-        },
-        {
-          "type": "ENFJ",
-          "label": "High",
-          "compatibility_score": 0.8,
-          "why_it_works": "Heart + momentum.",
-          "challenges": "Depth needs vs. lightness preference.",
-          "notes": ""
-        },
-        {
-          "type": "INTP",
-          "label": "Moderate",
-          "compatibility_score": 0.6,
-          "why_it_works": "Ideas + execution.",
-          "challenges": "Quiet time vs. stimulation pacing.",
-          "notes": ""
-        },
-        {
-          "type": "INFP",
-          "label": "Challenging",
-          "compatibility_score": 0.4,
-          "why_it_works": "Values vs. realism gap.",
-          "challenges": "Idealism vs. blunt realism.",
-          "notes": ""
-        },
-        {
-          "type": "ENTP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Wit + adventure + novelty.",
-          "challenges": "Follow-through risk.",
-          "notes": ""
-        },
-        {
-          "type": "ENFP",
-          "label": "Very High",
-          "compatibility_score": 0.95,
-          "why_it_works": "Creative, high-energy match.",
-          "challenges": "Structure/consistency gaps.",
-          "notes": ""
-        }
-      ],
-      "compatibility_distribution": {
-        "counts": {
-          "moderate": 5,
-          "high": 5,
-          "very_high": 5,
-          "challenging": 1,
-          "improbable": 0
-        },
-        "weights": {
-          "very_high": 0.95,
-          "high": 0.8,
-          "moderate": 0.6,
-          "challenging": 0.4,
-          "improbable": 0.2
-        },
-        "total_pairs": 16
-      }
-    },
-    {
-      "type": "ISFP",
-      "nickname": "The Adventurer",
-      "tagline": "The creative free spirit. The sensitive soul. The quiet artist of authenticity.",
-      "overview": "ISFPs are creative, sensitive, and independent. They value authenticity, personal expression, and living in the moment. In relationships, ISFPs seek emotional connection, mutual respect, and shared experiences. They express love through thoughtful gestures, quiet support, and shared activities.",
-      "love_languages": {
-        "give": [
-          "Thoughtful, personalized gifts and gestures",
-          "Quality time spent engaging in shared interests",
-          "Emotional presence and quiet support"
-        ],
-        "receive": [
-          "Respect for their independence and personal space",
-          "Emotional availability and understanding",
-          "Words of affirmation and thoughtful actions"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISTJs provide structure and reliability.",
-          "challenges": "ISTJs' practicality may clash with ISFPs' spontaneity."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value emotional connection and harmony.",
-          "challenges": "ISFJs' desire for routine may feel restrictive to ISFPs."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ESTJs offer structure and leadership.",
-          "challenges": "ESTJs' assertiveness can overwhelm ISFPs."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ESFJs provide warmth and social connection.",
-          "challenges": "ESFJs' need for structure may clash with ISFPs' free spirit."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy hands-on experiences and independence.",
-          "challenges": "ISTPs' emotional detachment can frustrate ISFPs."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Shared values of creativity, independence, and authenticity.",
-          "challenges": "Both may avoid conflict, leading to unresolved issues."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy excitement, spontaneity, and adventure.",
-          "challenges": "ESTPs' risk-taking may stress ISFPs."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both value fun, creativity, and emotional connection.",
-          "challenges": "Both may struggle with long-term planning."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INTJs provide structure and long-term vision.",
-          "challenges": "INTJs' focus on planning can clash with ISFPs' spontaneity."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value authenticity and emotional depth.",
-          "challenges": "INFJs' idealism may overwhelm ISFPs."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ENTJs offer leadership and structure.",
-          "challenges": "ENTJs' assertiveness can feel controlling to ISFPs."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ENFJs provide warmth and emotional support.",
-          "challenges": "ENFJs' high energy may tire ISFPs."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INTPs offer intellectual stimulation.",
-          "challenges": "INTPs' emotional detachment can frustrate ISFPs."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both value emotional connection, creativity, and authenticity.",
-          "challenges": "Both may avoid conflict, leading to unresolved issues."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENTPs bring excitement and new ideas.",
-          "challenges": "ENTPs' spontaneity can feel overwhelming."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both enjoy creativity, spontaneity, and emotional connection.",
-          "challenges": "Both may struggle with long-term planning."
-        }
-      ],
-      "compatibility_distribution": {
-        "very_high": 4,
-        "high": 5,
-        "moderate": 5,
+    ],
+    "compatibility_distribution": {
+      "counts": {
         "challenging": 2,
+        "very_high": 5,
+        "moderate": 4,
+        "high": 5,
         "improbable": 0
       },
       "weights": {
@@ -1793,144 +160,163 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-      }
-    },
-    {
-      "type": "ESFJ",
-      "nickname": "The Consul",
-      "tagline": "The nurturing supporter. The social harmonizer. The loyal heart of the community.",
-      "overview": "ESFJs are warm, nurturing, and highly sociable. They value harmony, tradition, and caring for others. In relationships, they seek stability, emotional connection, and mutual support. ESFJs express love through thoughtful gestures, emotional attentiveness, and acts of service.",
-      "love_languages": {
-        "give": [
-          "Expressing affection through thoughtful actions and words of affirmation",
-          "Providing emotional support and creating a welcoming environment",
-          "Prioritizing their partner’s needs and ensuring their happiness"
-        ],
-        "receive": [
-          "Consistent affection and verbal reassurance",
-          "Thoughtful gestures that demonstrate care and appreciation",
-          "Emotional availability and quality time"
-        ]
       },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value structure, stability, and commitment.",
-          "challenges": "ISTJs' emotional reserve may frustrate ESFJs."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both prioritize harmony, loyalty, and emotional connection.",
-          "challenges": "Both may avoid conflict, leading to unresolved issues."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ESTJs provide structure, while ESFJs add warmth and emotional insight.",
-          "challenges": "ESTJs' assertiveness may overwhelm ESFJs."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Shared values of nurturing, tradition, and social harmony.",
-          "challenges": "Over-sacrificing for others can lead to burnout."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ISTPs bring spontaneity and excitement.",
-          "challenges": "ISTPs' independence may frustrate ESFJs' need for connection."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ISFPs add creativity and emotional depth.",
-          "challenges": "ISFPs' desire for freedom may clash with ESFJs' need for structure."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ESTPs bring energy and excitement.",
-          "challenges": "ESTPs’ risk-taking may stress ESFJs."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both enjoy socializing, fun, and emotional connection.",
-          "challenges": "Both may prioritize fun over addressing deeper issues."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INTJs provide structure and long-term vision.",
-          "challenges": "INTJs' emotional detachment can frustrate ESFJs."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "INFJs offer emotional insight and depth.",
-          "challenges": "INFJs' introspection may feel isolating to ESFJs."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENTJs provide leadership and structure.",
-          "challenges": "ENTJs' assertiveness may clash with ESFJs' desire for harmony."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both prioritize relationships, emotional connection, and social engagement.",
-          "challenges": "Both may neglect personal needs while focusing on others."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INTPs offer intellectual stimulation.",
-          "challenges": "INTPs' emotional detachment can frustrate ESFJs."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value emotional connection and compassion.",
-          "challenges": "INFPs' idealism may clash with ESFJs' practicality."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENTPs bring excitement and new ideas.",
-          "challenges": "ENTPs' spontaneity can overwhelm ESFJs."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy socializing, creativity, and emotional connection.",
-          "challenges": "ENFPs' impulsivity may frustrate ESFJs' need for stability."
-        }
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ENFP",
+    "nickname": "The Campaigner",
+    "tagline": "The imaginative catalyst. The radiant connector. The champion of possibility.",
+    "overview": "ENFPs are enthusiastic and values-driven. They crave authentic connection, exploration, and growth; they express love through affection, spontaneity, and belief in their partner’s dreams.",
+    "love_languages": {
+      "give": [
+        "Affection via words/touch/time",
+        "Encouraging partner’s dreams",
+        "Spontaneous adventures"
       ],
-      "compatibility_distribution": {
-        "very_high": 4,
-        "high": 5,
+      "receive": [
+        "Emotional availability & deep talks",
+        "Affirmation of ideas & feelings",
+        "Flexibility & openness"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Brings stabilizing structure to ENFP’s creativity.",
+        "challenges": "Routine vs. flexibility friction.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Supportive warmth meets enthusiasm.",
+        "challenges": "Stability vs. adventure pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Structure meets imagination.",
+        "challenges": "Efficiency focus vs. free spirit.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Connection-forward and expressive duo.",
+        "challenges": "Tradition vs. novelty tensions.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Independence + emotional spark.",
+        "challenges": "Reserve vs. connection needs.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared authenticity and creative freedom.",
+        "challenges": "Conflict avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Adventure, spontaneity, and fun align.",
+        "challenges": "Planning can lag.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Social joy and vibrant warmth.",
+        "challenges": "Serious topics can be postponed.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Vision + warmth; excellent complement.",
+        "challenges": "Order vs. flexibility friction.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Depth, ideals, and growth align.",
+        "challenges": "Outward energy vs. inward focus balance.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Leadership meets creativity and morale.",
+        "challenges": "Assertiveness can overwhelm at times.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Emotionally rich, growth-focused pairing.",
+        "challenges": "Self-neglect via over-helping.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Ideas meet warmth; stimulating duo.",
+        "challenges": "Solitude vs. connection rhythm.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared values and soulful bond.",
+        "challenges": "Conflict and pragmatics can lag.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Ideas, spontaneity, and play.",
+        "challenges": "Depth requires intention.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared enthusiasm and meaning.",
+        "challenges": "Follow-through challenges.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
         "moderate": 3,
-        "challenging": 4,
+        "high": 5,
+        "very_high": 8,
+        "challenging": 0,
         "improbable": 0
       },
       "weights": {
@@ -1939,144 +325,163 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-      }
-    },
-    {
-      "type": "ESTJ",
-      "nickname": "The Executive",
-      "tagline": "The structured leader. The decisive organizer. The dependable builder of order.",
-      "overview": "ESTJs are natural leaders who value structure, organization, and efficiency. They are dependable, decisive, and results-driven. In relationships, ESTJs seek stability, loyalty, and clear expectations. They show love through acts of responsibility, commitment, and practical support.",
-      "love_languages": {
-        "give": [
-          "Providing structure, security, and practical help",
-          "Taking responsibility for relationship goals and commitments",
-          "Offering clear, honest communication and leadership"
-        ],
-        "receive": [
-          "Respect for their leadership and decisions",
-          "Practical support and reliability",
-          "Clear communication and follow-through on commitments"
-        ]
       },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value structure, responsibility, and efficiency.",
-          "challenges": "Can become overly rigid without flexibility."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "ISFJs provide emotional warmth, balancing ESTJs' practicality.",
-          "challenges": "ISFJs' sensitivity may clash with ESTJs' bluntness."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Shared values of leadership, organization, and structure.",
-          "challenges": "Power struggles may arise without clear roles."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both prioritize stability, community, and relationships.",
-          "challenges": "ESTJs may overlook ESFJs' emotional needs."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISTPs add spontaneity to balance ESTJs' structure.",
-          "challenges": "ISTPs' independence may clash with ESTJs' need for control."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISFPs bring creativity and warmth.",
-          "challenges": "ISFPs' desire for freedom may frustrate ESTJs."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy action and results-driven activities.",
-          "challenges": "ESTPs' impulsiveness may clash with ESTJs' planning."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ESFPs add excitement and spontaneity.",
-          "challenges": "ESFPs may find ESTJs too controlling."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value long-term planning and efficiency.",
-          "challenges": "Emotional connection may be lacking."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INFJs provide depth and insight.",
-          "challenges": "INFJs' idealism may frustrate ESTJs' pragmatism."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both are driven, goal-oriented, and value efficiency.",
-          "challenges": "Power struggles may arise."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ENFJs bring warmth and emotional intelligence.",
-          "challenges": "ENFJs may find ESTJs too task-focused."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INTPs add intellectual stimulation.",
-          "challenges": "INTPs' abstract thinking may clash with ESTJs' practicality."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INFPs offer emotional depth.",
-          "challenges": "INFPs' idealism may frustrate ESTJs' realism."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ENTPs provide excitement and new ideas.",
-          "challenges": "ENTPs' spontaneity can clash with ESTJs' structure."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENFPs bring enthusiasm and creativity.",
-          "challenges": "ENFPs' impulsivity may frustrate ESTJs."
-        }
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ENTP",
+    "nickname": "The Debater",
+    "tagline": "The idea-sparking provocateur. The playful challenger. The improviser of possibilities.",
+    "overview": "ENTPs are energetic, curious, and thrive on novelty and debate. They show love via humor, shared adventures, and mental play.",
+    "love_languages": {
+      "give": [
+        "Stimulating debate & ideas",
+        "Spontaneous adventures",
+        "Playful teasing & humor"
       ],
-      "compatibility_distribution": {
-        "very_high": 2,
-        "high": 7,
+      "receive": [
+        "Witty banter & engagement",
+        "Encouragement of ideas",
+        "Respect for independence"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Stability meets innovation.",
+        "challenges": "Routine vs. change tension.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Grounding warmth balances energy.",
+        "challenges": "Craves stability vs. novelty.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Challenge-oriented, decisive duo.",
+        "challenges": "Playfulness vs. task-focus clashes.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Social harmony with spark.",
+        "challenges": "Tradition vs. experimentation friction.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Hands-on minds; quiet synergy.",
+        "challenges": "Chatter vs. quiet time gap.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Creativity meets energy.",
+        "challenges": "Debate can stress peace-seeking ISFP.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Fast-paced, adventurous equals.",
+        "challenges": "Planning deficit risk.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Fun-first explorers.",
+        "challenges": "Depth/planning can be deferred.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Strategy + ideation.",
+        "challenges": "Spontaneity vs. long-range plans.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Meaning + novelty.",
+        "challenges": "Debate style can overwhelm sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Ambitious, innovative power-pair.",
+        "challenges": "Potential control battles.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Heart + ideas; engaging growth.",
+        "challenges": "Harmony vs. debate tension.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Kindred thinkers; endless ideas.",
+        "challenges": "Feelings can be sidelined.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Depth meets play.",
+        "challenges": "Debate vs. peace need mismatch.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared curiosity and speed.",
+        "challenges": "Emotions may be bypassed.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Creative, high-energy match.",
+        "challenges": "Structure may lag.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
         "moderate": 5,
-        "challenging": 2,
+        "high": 5,
+        "very_high": 6,
+        "challenging": 0,
         "improbable": 0
       },
       "weights": {
@@ -2085,144 +490,163 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-      }
-    },
-    {
-      "type": "ISFJ",
-      "nickname": "The Defender",
-      "tagline": "The quiet guardian. The loyal nurturer. The steadfast heart of harmony.",
-      "overview": "ISFJs are nurturing, loyal, and compassionate. They value harmony, tradition, and emotional connection. In relationships, they seek security, kindness, and mutual support. ISFJs express love through acts of service, emotional attentiveness, and unwavering commitment.",
-      "love_languages": {
-        "give": [
-          "Thoughtful gestures and acts of service",
-          "Emotional support and attentiveness to their partner’s needs",
-          "Creating a warm, stable home environment"
-        ],
-        "receive": [
-          "Verbal affirmation and reassurance",
-          "Consistency, dependability, and thoughtful gestures",
-          "Emotional availability and active listening"
-        ]
       },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value loyalty, stability, and structure.",
-          "challenges": "ISTJs' practicality may clash with ISFJs' emotional sensitivity."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Shared values of nurturing, tradition, and compassion.",
-          "challenges": "Both may avoid conflict, leading to unresolved issues."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "ESTJs provide structure, while ISFJs add warmth and emotional support.",
-          "challenges": "ESTJs' assertiveness may overwhelm ISFJs' need for harmony."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both prioritize relationships, community, and nurturing.",
-          "challenges": "Over-sacrificing for others may lead to burnout."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISTPs bring excitement and spontaneity.",
-          "challenges": "ISTPs' emotional detachment can frustrate ISFJs."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value kindness, creativity, and emotional connection.",
-          "challenges": "ISFPs' spontaneity may clash with ISFJs' desire for routine."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ESTPs bring excitement and spontaneity.",
-          "challenges": "ESTPs’ risk-taking may stress ISFJs."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ESFPs bring fun and energy.",
-          "challenges": "ESFPs may neglect ISFJs' need for stability."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INTJs provide long-term vision.",
-          "challenges": "INTJs’ emotional detachment can frustrate ISFJs."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value emotional depth and meaningful connections.",
-          "challenges": "INFJs’ idealism may overwhelm ISFJs’ practicality."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENTJs provide structure and leadership.",
-          "challenges": "ENTJs' assertiveness may clash with ISFJs' gentle nature."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both are nurturing, compassionate, and relationship-focused.",
-          "challenges": "ENFJs' high energy may tire ISFJs."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INTPs offer intellectual stimulation.",
-          "challenges": "INTPs' emotional detachment may frustrate ISFJs."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value emotional connection and compassion.",
-          "challenges": "INFPs' idealism may clash with ISFJs' realism."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ENTPs bring excitement and new ideas.",
-          "challenges": "ENTPs' spontaneity can overwhelm ISFJs."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENFPs bring creativity and enthusiasm.",
-          "challenges": "ENFPs’ impulsivity may frustrate ISFJs’ need for stability."
-        }
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "INFP",
+    "nickname": "The Mediator",
+    "tagline": "The compassionate idealist. The inner light. The guardian of meaning.",
+    "overview": "INFPs are idealistic, empathetic, and introspective. They seek authenticity and deep bonds; they love through empathy, thoughtful gestures, and steadfast support.",
+    "love_languages": {
+      "give": [
+        "Deep empathy & support",
+        "Personalized thoughtful gestures",
+        "Championing partner’s values"
       ],
-      "compatibility_distribution": {
-        "very_high": 3,
+      "receive": [
+        "Emotional vulnerability & connection",
+        "Affirming words",
+        "Respect for ideals & space"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Reliability steadies ideals.",
+        "challenges": "Practicality vs. idealism tension.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Kindness, loyalty, and care.",
+        "challenges": "Routine vs. spontaneity pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Structure can help growth.",
+        "challenges": "Assertiveness can overwhelm sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Warmth balances introspection.",
+        "challenges": "High social needs can drain INFP.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Independence complements depth.",
+        "challenges": "Detachment frustrates need for closeness.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared authenticity and artistry.",
+        "challenges": "Conflict avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Excitement can be enlivening.",
+        "challenges": "Impulsivity vs. reflection mismatch.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Joy meets meaning.",
+        "challenges": "Present-focus vs. future ideals.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Vision + values; rich growth.",
+        "challenges": "Strict logic can chafe idealism.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Soul-level understanding.",
+        "challenges": "Mutual conflict avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Drive meets depth.",
+        "challenges": "Forcefulness can overwhelm.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared ideals and nurturance.",
+        "challenges": "Pace/energy differences.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Ideas + values synergy.",
+        "challenges": "Aloofness vs. connection needs.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared empathy and meaning.",
+        "challenges": "Practical/logistical gaps.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Novelty meets heart.",
+        "challenges": "Debate style can sting.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Creativity and cause alignment.",
+        "challenges": "Follow-through challenges.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "moderate": 5,
         "high": 4,
-        "moderate": 5,
-        "challenging": 4,
+        "challenging": 2,
+        "very_high": 5,
         "improbable": 0
       },
       "weights": {
@@ -2231,290 +655,163 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-      }
-    },
-    {
-      "type": "ISTJ",
-      "nickname": "The Logistician",
-      "tagline": "The dependable planner. The traditionalist. The rock of stability.",
-      "overview": "ISTJs are dependable, practical, and highly organized. They value structure, responsibility, and tradition. In relationships, they seek stability, loyalty, and clear expectations. ISTJs show love through reliability, consistency, and providing for their loved ones.",
-      "love_languages": {
-        "give": [
-          "Acts of service, fulfilling promises, and maintaining order",
-          "Practical support rather than emotional expression",
-          "Offering long-term security and thoughtful planning"
-        ],
-        "receive": [
-          "Respect for their routines and traditions",
-          "Clear communication and honest intentions",
-          "Consistency and follow-through on commitments"
-        ]
       },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Shared values of structure and responsibility.",
-          "challenges": "Both may struggle to express emotions openly."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both value loyalty and nurturing relationships.",
-          "challenges": "Conflict may arise if emotional needs are ignored."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Mutual respect for structure and efficiency.",
-          "challenges": "Power struggles may occur if both insist on control."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "ESFJs provide warmth, balancing ISTJs' practicality.",
-          "challenges": "ESFJs may seek more emotional affirmation."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both value independence and problem-solving.",
-          "challenges": "ISTPs' spontaneity may conflict with ISTJs' structure."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISFPs bring creativity and emotional depth.",
-          "challenges": "ISTJs may find ISFPs' spontaneity frustrating."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ESTPs add excitement to ISTJs' structured world.",
-          "challenges": "ESTPs' risk-taking clashes with ISTJs’ caution."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ESFPs bring fun and energy.",
-          "challenges": "ISTJs may find ESFPs' spontaneity overwhelming."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value structure and strategy.",
-          "challenges": "Emotional intimacy may be lacking."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "INFJs provide emotional insight.",
-          "challenges": "INFJs may desire more emotional openness."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both are goal-oriented and efficient.",
-          "challenges": "Power struggles may arise."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENFJs bring enthusiasm.",
-          "challenges": "ENFJs may seek more emotional connection."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both value intellectual exploration.",
-          "challenges": "INTPs’ abstract thinking may clash."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INFPs bring emotional depth.",
-          "challenges": "INFPs’ idealism may frustrate ISTJs."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ENTPs provide excitement.",
-          "challenges": "ENTPs' spontaneity can irritate ISTJs."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ENFPs bring creativity.",
-          "challenges": "ENFPs' spontaneity clashes with ISTJs’ order."
-        }
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "INTP",
+    "nickname": "The Logician",
+    "tagline": "The pattern hunter. The systems tinkerer. The quiet innovator.",
+    "overview": "INTPs are analytical and independent, craving depth and autonomy. They show love via ideas, problem-solving, and quiet presence.",
+    "love_languages": {
+      "give": [
+        "Shared intellectual pursuits",
+        "Thoughtful solutions",
+        "Respect for autonomy"
       ],
-      "compatibility_distribution": {
-        "very_high": 2,
-        "high": 5,
+      "receive": [
+        "Deep conversation",
+        "Patience with introspection",
+        "Respect for solitude"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Order meets abstract analysis.",
+        "challenges": "Rules vs. exploration conflict.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Supportive warmth with ideas.",
+        "challenges": "Routine vs. spontaneity tension.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Execution meets innovation.",
+        "challenges": "Efficiency focus vs. theory depth.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Warmth + thought can work.",
+        "challenges": "Emotion focus vs. logic-first friction.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Independent problem-solvers.",
+        "challenges": "Feelings may be sidelined.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Artistry + analysis.",
+        "challenges": "Emotional needs may be missed.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Action + ideas pairing.",
+        "challenges": "Impulse vs. contemplation pace.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Energy meets insight.",
+        "challenges": "Fun focus vs. introspection gap.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Strategic, deep-thinking synergy.",
+        "challenges": "Intentional work on emotions needed.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Meaningful talks & growth.",
+        "challenges": "Emotional asks can feel heavy.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Bold leadership + innovation.",
+        "challenges": "Directness can feel intense.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Warmth + intellect.",
+        "challenges": "Harmony vs. blunt logic tension.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Kindred thinkers.",
+        "challenges": "Emotional avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Values + ideas blend.",
+        "challenges": "Idealism vs. logic clashes.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Debate partners-in-crime.",
+        "challenges": "Intimacy can be deferred.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Creativity + theory.",
+        "challenges": "Connection vs. independence rhythm.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
         "moderate": 5,
-        "challenging": 4,
-        "improbable": 0
-      },
-      "weights": {
-        "very_high": 0.95,
-        "high": 0.8,
-        "moderate": 0.6,
-        "challenging": 0.4,
-        "improbable": 0.2
-      }
-    },
-    {
-      "type": "ISTP",
-      "nickname": "The Virtuoso",
-      "tagline": "The independent problem-solver. The hands-on adventurer. The quiet analyst.",
-      "overview": "ISTPs are independent, analytical, and action-oriented. They value freedom, spontaneity, and hands-on experiences. In relationships, they seek partners who respect their autonomy while sharing their sense of adventure. ISTPs prefer showing love through actions rather than words, often expressing affection through practical support and shared experiences.",
-      "love_languages": {
-        "give": [
-          "Acts of service, problem-solving, and shared activities",
-          "Playful teasing and light-hearted companionship",
-          "Respecting their partner's independence and encouraging self-reliance"
-        ],
-        "receive": [
-          "Freedom to pursue hobbies and interests without feeling confined",
-          "Emotional support expressed through actions rather than words",
-          "Honest, straightforward communication without excessive emotional drama"
-        ]
-      },
-      "compatibility": [
-        {
-          "type": "ISTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both value independence, practicality, and efficiency. The ISTJ’s structured approach complements the ISTP’s hands-on nature.",
-          "challenges": "ISTJs prefer long-term planning, while ISTPs favor spontaneity. Compromise on structure vs. flexibility is crucial."
-        },
-        {
-          "type": "ISFJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "ISFJs provide nurturing support, while ISTPs offer excitement and variety.",
-          "challenges": "ISFJs crave emotional reassurance, which ISTPs may overlook unless mindful of their partner's needs."
-        },
-        {
-          "type": "ESTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both are action-oriented and value efficiency. They can build a strong, productive partnership.",
-          "challenges": "ESTJs may come off as controlling, clashing with the ISTP’s desire for independence."
-        },
-        {
-          "type": "ESFJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ESFJs bring warmth and social connection, while ISTPs add excitement.",
-          "challenges": "ESFJs need emotional connection, while ISTPs prefer practicality. Communication gaps may arise."
-        },
-        {
-          "type": "ISTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Shared independence, love for adventure, and mutual respect for personal space.",
-          "challenges": "Both may avoid emotional discussions, leading to unresolved conflicts."
-        },
-        {
-          "type": "ISFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both value spontaneity, creativity, and hands-on experiences.",
-          "challenges": "ISFPs may seek deeper emotional intimacy than ISTPs naturally provide."
-        },
-        {
-          "type": "ESTP",
-          "compatibility": "Very High",
-          "score": 0.95,
-          "why_it_works": "Both are adventurous, energetic, and thrive on excitement.",
-          "challenges": "Impulsivity and lack of long-term planning can lead to instability."
-        },
-        {
-          "type": "ESFP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy living in the moment and exploring new experiences.",
-          "challenges": "ESFPs may seek more emotional expression than ISTPs are comfortable providing."
-        },
-        {
-          "type": "INTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both appreciate independence and intellectual stimulation.",
-          "challenges": "INTJs’ long-term planning may conflict with ISTPs’ spontaneity."
-        },
-        {
-          "type": "INFJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "INFJs bring depth and vision, while ISTPs add practicality and spontaneity.",
-          "challenges": "INFJs seek emotional connection, which ISTPs may struggle to provide consistently."
-        },
-        {
-          "type": "ENTJ",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both are decisive, action-oriented, and enjoy tackling challenges together.",
-          "challenges": "ENTJs may dominate decision-making, clashing with ISTPs’ need for autonomy."
-        },
-        {
-          "type": "ENFJ",
-          "compatibility": "Challenging",
-          "score": 0.4,
-          "why_it_works": "ENFJs inspire growth, while ISTPs encourage spontaneity.",
-          "challenges": "ENFJs’ emotional intensity may overwhelm ISTPs."
-        },
-        {
-          "type": "INTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both enjoy intellectual exploration and independent pursuits.",
-          "challenges": "Both may avoid emotional discussions, leading to communication gaps."
-        },
-        {
-          "type": "INFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "INFPs offer emotional depth, while ISTPs bring practicality and action.",
-          "challenges": "INFPs may feel emotionally unfulfilled if ISTPs remain too detached."
-        },
-        {
-          "type": "ENTP",
-          "compatibility": "High",
-          "score": 0.8,
-          "why_it_works": "Both love excitement, intellectual challenges, and spontaneity.",
-          "challenges": "Both may struggle with follow-through and emotional vulnerability."
-        },
-        {
-          "type": "ENFP",
-          "compatibility": "Moderate",
-          "score": 0.6,
-          "why_it_works": "Both enjoy adventure, creativity, and living in the moment.",
-          "challenges": "ENFPs may crave more emotional connection than ISTPs naturally provide."
-        }
-      ],
-      "compatibility_distribution": {
-        "very_high": 1,
-        "high": 5,
-        "moderate": 7,
         "challenging": 3,
+        "high": 5,
+        "very_high": 3,
         "improbable": 0
       },
       "weights": {
@@ -2523,7 +820,1709 @@
         "moderate": 0.6,
         "challenging": 0.4,
         "improbable": 0.2
-    ]
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ENTJ",
+    "nickname": "The Commander",
+    "tagline": "The strategic driver. The builder of systems. The force for outcomes.",
+    "overview": "ENTJs are decisive leaders who value efficiency and vision. They love through planning, problem-solving, and championing growth.",
+    "love_languages": {
+      "give": [
+        "Leading & future planning",
+        "Practical support & solutions",
+        "Pushing for growth"
+      ],
+      "receive": [
+        "Intellectual sparring",
+        "Respect for ambition",
+        "Clear goals & communication"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Aligned on structure, standards, and planning.",
+        "challenges": "Tradition vs. innovation tension.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Care + drive balance.",
+        "challenges": "Assertiveness can overwhelm sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Operational excellence duo.",
+        "challenges": "Power struggles without clear lanes.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Social ease complements intensity.",
+        "challenges": "Harmony vs. bluntness friction.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Independent, capable counterpart.",
+        "challenges": "Spontaneity vs. strategy pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Creativity adds warmth.",
+        "challenges": "Present-focus vs. future-focus.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Challenge-loving action partners.",
+        "challenges": "Impulsivity vs. planning gaps.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Enthusiasm lightens intensity.",
+        "challenges": "Goal-drive vs. fun-first mismatch.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Strategic, ambitious equals.",
+        "challenges": "Emotions may be minimized.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Insight + leadership synergy.",
+        "challenges": "Intensity can tax sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared drive and standards.",
+        "challenges": "Control conflicts possible.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Vision + empathy; inspiring pair.",
+        "challenges": "Logic vs. emotion priorities.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Innovation meets execution.",
+        "challenges": "Abstract vs. pragmatic tension.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Values add depth.",
+        "challenges": "Idealism vs. practicality friction.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Debate, innovation, big goals.",
+        "challenges": "Competitive sparks to manage.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Creativity fuels momentum.",
+        "challenges": "Spontaneity vs. order mismatch.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "high": 6,
+        "moderate": 4,
+        "very_high": 5,
+        "challenging": 1,
+        "improbable": 0
+      },
+      "weights": {
+        "very_high": 0.95,
+        "high": 0.8,
+        "moderate": 0.6,
+        "challenging": 0.4,
+        "improbable": 0.2
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "INFJ",
+    "nickname": "The Advocate",
+    "tagline": "The visionary empath. The meaning-maker. The principled guide.",
+    "overview": "INFJs are compassionate, insightful idealists seeking depth and authenticity. They love via support, thoughtful care, and loyalty.",
+    "love_languages": {
+      "give": [
+        "Emotional support & understanding",
+        "Thoughtful gestures",
+        "Encouraging growth"
+      ],
+      "receive": [
+        "Authentic vulnerability",
+        "Affirming words & actions",
+        "Respect for ideals & space"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Stability steadies ideals.",
+        "challenges": "Practical vs. idealist priorities.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Loyal, compassionate resonance.",
+        "challenges": "Tradition vs. vision friction.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Structure plus depth.",
+        "challenges": "Assertiveness can tax sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Harmony-forward pairing.",
+        "challenges": "Norms vs. independence tension.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Spontaneity meets depth.",
+        "challenges": "Detachment vs. connection needs.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Authenticity + growth.",
+        "challenges": "Present vs. future focus.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Energy meets meaning.",
+        "challenges": "Impulsivity vs. structure.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Joy plus depth.",
+        "challenges": "Present-focus vs. long-term vision.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared depth and strategy.",
+        "challenges": "Logic may miss feeling cues.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Soulful alignment.",
+        "challenges": "Idealism and conflict avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Leadership + emotional intel.",
+        "challenges": "Intensity management needed.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared values and service.",
+        "challenges": "Self-neglect via over-helping.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Deep talks and growth.",
+        "challenges": "Emotional asks can feel heavy.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Authenticity and shared ideals.",
+        "challenges": "Practicalities may lag.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Excitement meets depth.",
+        "challenges": "Debate style can overwhelm.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Meaningful, enthusiastic bond.",
+        "challenges": "Spontaneity vs. structure balance.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "moderate": 5,
+        "high": 5,
+        "challenging": 1,
+        "very_high": 5,
+        "improbable": 0
+      },
+      "weights": {
+        "very_high": 0.95,
+        "high": 0.8,
+        "moderate": 0.6,
+        "challenging": 0.4,
+        "improbable": 0.2
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "INTJ",
+    "nickname": "The Architect",
+    "tagline": "The strategic futurist. The independent optimizer. The long-game planner.",
+    "overview": "INTJs are vision-driven strategists who value competence and autonomy. They love through commitment, solutions, and intentional planning.",
+    "love_languages": {
+      "give": [
+        "Practical solutions & advice",
+        "Loyal long-term commitment",
+        "Thoughtful future planning"
+      ],
+      "receive": [
+        "Intellectual engagement",
+        "Respect for independence",
+        "Calm emotional support"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Aligned on responsibility and systems.",
+        "challenges": "Emotion expression can lag.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Warmth softens pragmatism.",
+        "challenges": "Routine vs. vision pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Goal-driven efficiency.",
+        "challenges": "Control/authority collisions possible.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Social ease complements strategy.",
+        "challenges": "Emotion-first vs. logic-first.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Independent problem-solvers.",
+        "challenges": "Spontaneity vs. planning.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Artistry enriches vision.",
+        "challenges": "Present vs. future tension.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Energy can jumpstart plans.",
+        "challenges": "Impulsivity vs. structure.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Joyful contrast.",
+        "challenges": "Fun-first vs. long-term focus.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared strategy and autonomy.",
+        "challenges": "Emotions easily minimized.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Depth + purpose alignment.",
+        "challenges": "Feeling needs attention.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Ambitious, strategic duo.",
+        "challenges": "Power boundaries needed.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Warmth meets vision.",
+        "challenges": "Emotion vs. logic calibration.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Idea-rich synergy.",
+        "challenges": "Intimacy requires intention.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Values add nuance.",
+        "challenges": "Idealism vs. pragmatism.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Debate fuels innovation.",
+        "challenges": "Spontaneity vs. structure.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Creativity energizes.",
+        "challenges": "Need agreement on pace/structure.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "high": 6,
+        "moderate": 6,
+        "challenging": 1,
+        "very_high": 3,
+        "improbable": 0
+      },
+      "weights": {
+        "very_high": 0.95,
+        "high": 0.8,
+        "moderate": 0.6,
+        "challenging": 0.4,
+        "improbable": 0.2
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ESFP",
+    "nickname": "The Entertainer",
+    "tagline": "The radiant spark. The joy-bringer. The heart-on-sleeve adventurer.",
+    "overview": "ESFPs are energetic and affectionate, thriving on shared experiences and connection. They love via play, presence, and warmth.",
+    "love_languages": {
+      "give": [
+        "Fun plans & adventures",
+        "Enthusiastic support",
+        "Affection via touch & words"
+      ],
+      "receive": [
+        "Quality time",
+        "Emotional availability",
+        "Spontaneous gestures"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Stability meets sparkle.",
+        "challenges": "Order vs. freedom friction.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Warm support + shared joy.",
+        "challenges": "Routine vs. spontaneity mismatch.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Structure + fun blend.",
+        "challenges": "Efficiency vs. carefree tension.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Social warmth and shared experiences.",
+        "challenges": "Conflict avoidance risk.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Practical + playful synergy.",
+        "challenges": "Independence vs. connection pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Creative, present-focused bond.",
+        "challenges": "Planning & conflict skills needed.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Adventure equals.",
+        "challenges": "Commitment/planning challenges.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Mutual enthusiasm and affection.",
+        "challenges": "Lack of structure instability.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Vision steadies spontaneity.",
+        "challenges": "Planning vs. present-focus tension.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Depth meets joy.",
+        "challenges": "Introspection can feel distant.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Drive + energy pairing.",
+        "challenges": "Goal-drive vs. fun-first pacing.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Emotional connection + shared life.",
+        "challenges": "Harmony-first can hide issues.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Ideas + energy.",
+        "challenges": "Quiet needs vs. social lifestyle.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Authenticity + joy.",
+        "challenges": "Idealism vs. present-focus.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Play + ideas + novelty.",
+        "challenges": "Follow-through risk.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Creativity and warmth.",
+        "challenges": "Structure/maintenance gaps.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "moderate": 4,
+        "high": 5,
+        "very_high": 7,
+        "challenging": 0,
+        "improbable": 0
+      },
+      "weights": {
+        "very_high": 0.95,
+        "high": 0.8,
+        "moderate": 0.6,
+        "challenging": 0.4,
+        "improbable": 0.2
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ESTP",
+    "nickname": "The Entrepreneur",
+    "tagline": "The kinetic maverick. The sharp-eyed improviser. The thrill-forward problem-solver.",
+    "overview": "ESTPs are adventurous and adaptable, showing love through action, presence, and shared experiences.",
+    "love_languages": {
+      "give": [
+        "Exciting plans & activities",
+        "Playful banter & companionship",
+        "Action-based affection"
+      ],
+      "receive": [
+        "Appreciation for spontaneity",
+        "Open but light emotional tone",
+        "Respect for independence"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Order steadies spontaneity.",
+        "challenges": "Rules vs. flexibility.",
+        "notes": ""
+      },
+      {
+        "type": "ISFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Care balances adventure.",
+        "challenges": "Sensitivity vs. bluntness.",
+        "notes": ""
+      },
+      {
+        "type": "ESTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Action-oriented partners.",
+        "challenges": "Structure vs. spontaneity management.",
+        "notes": ""
+      },
+      {
+        "type": "ESFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Warmth complements energy.",
+        "challenges": "Impulsiveness can stress harmony.",
+        "notes": ""
+      },
+      {
+        "type": "ISTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Independent, hands-on equals.",
+        "challenges": "Emotion talk can be scarce.",
+        "notes": ""
+      },
+      {
+        "type": "ISFP",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Creative, easygoing pairing.",
+        "challenges": "Directness can sting sensitivity.",
+        "notes": ""
+      },
+      {
+        "type": "ESTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Shared love of adventure.",
+        "challenges": "Planning/commitment gaps.",
+        "notes": ""
+      },
+      {
+        "type": "ESFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Social, fun-first duo.",
+        "challenges": "Responsibilities can be ignored.",
+        "notes": ""
+      },
+      {
+        "type": "INTJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Vision + action.",
+        "challenges": "Structure vs. impulse tension.",
+        "notes": ""
+      },
+      {
+        "type": "INFJ",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Depth meets thrill.",
+        "challenges": "Introspection vs. speed mismatch.",
+        "notes": ""
+      },
+      {
+        "type": "ENTJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Challenge-loving builders.",
+        "challenges": "Control battles if unmanaged.",
+        "notes": ""
+      },
+      {
+        "type": "ENFJ",
+        "label": "High",
+        "compatibility_score": 0.8,
+        "why_it_works": "Heart + momentum.",
+        "challenges": "Depth needs vs. lightness preference.",
+        "notes": ""
+      },
+      {
+        "type": "INTP",
+        "label": "Moderate",
+        "compatibility_score": 0.6,
+        "why_it_works": "Ideas + execution.",
+        "challenges": "Quiet time vs. stimulation pacing.",
+        "notes": ""
+      },
+      {
+        "type": "INFP",
+        "label": "Challenging",
+        "compatibility_score": 0.4,
+        "why_it_works": "Values vs. realism gap.",
+        "challenges": "Idealism vs. blunt realism.",
+        "notes": ""
+      },
+      {
+        "type": "ENTP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Wit + adventure + novelty.",
+        "challenges": "Follow-through risk.",
+        "notes": ""
+      },
+      {
+        "type": "ENFP",
+        "label": "Very High",
+        "compatibility_score": 0.95,
+        "why_it_works": "Creative, high-energy match.",
+        "challenges": "Structure/consistency gaps.",
+        "notes": ""
+      }
+    ],
+    "compatibility_distribution": {
+      "counts": {
+        "moderate": 5,
+        "high": 5,
+        "very_high": 5,
+        "challenging": 1,
+        "improbable": 0
+      },
+      "weights": {
+        "very_high": 0.95,
+        "high": 0.8,
+        "moderate": 0.6,
+        "challenging": 0.4,
+        "improbable": 0.2
+      },
+      "total_pairs": 16
+    }
+  },
+  {
+    "type": "ISFP",
+    "nickname": "The Adventurer",
+    "tagline": "The creative free spirit. The sensitive soul. The quiet artist of authenticity.",
+    "overview": "ISFPs are creative, sensitive, and independent. They value authenticity, personal expression, and living in the moment. In relationships, ISFPs seek emotional connection, mutual respect, and shared experiences. They express love through thoughtful gestures, quiet support, and shared activities.",
+    "love_languages": {
+      "give": [
+        "Thoughtful, personalized gifts and gestures",
+        "Quality time spent engaging in shared interests",
+        "Emotional presence and quiet support"
+      ],
+      "receive": [
+        "Respect for their independence and personal space",
+        "Emotional availability and understanding",
+        "Words of affirmation and thoughtful actions"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISTJs provide structure and reliability.",
+        "challenges": "ISTJs' practicality may clash with ISFPs' spontaneity."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value emotional connection and harmony.",
+        "challenges": "ISFJs' desire for routine may feel restrictive to ISFPs."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ESTJs offer structure and leadership.",
+        "challenges": "ESTJs' assertiveness can overwhelm ISFPs."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ESFJs provide warmth and social connection.",
+        "challenges": "ESFJs' need for structure may clash with ISFPs' free spirit."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy hands-on experiences and independence.",
+        "challenges": "ISTPs' emotional detachment can frustrate ISFPs."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Shared values of creativity, independence, and authenticity.",
+        "challenges": "Both may avoid conflict, leading to unresolved issues."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy excitement, spontaneity, and adventure.",
+        "challenges": "ESTPs' risk-taking may stress ISFPs."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both value fun, creativity, and emotional connection.",
+        "challenges": "Both may struggle with long-term planning."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INTJs provide structure and long-term vision.",
+        "challenges": "INTJs' focus on planning can clash with ISFPs' spontaneity."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value authenticity and emotional depth.",
+        "challenges": "INFJs' idealism may overwhelm ISFPs."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ENTJs offer leadership and structure.",
+        "challenges": "ENTJs' assertiveness can feel controlling to ISFPs."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ENFJs provide warmth and emotional support.",
+        "challenges": "ENFJs' high energy may tire ISFPs."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INTPs offer intellectual stimulation.",
+        "challenges": "INTPs' emotional detachment can frustrate ISFPs."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both value emotional connection, creativity, and authenticity.",
+        "challenges": "Both may avoid conflict, leading to unresolved issues."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENTPs bring excitement and new ideas.",
+        "challenges": "ENTPs' spontaneity can feel overwhelming."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both enjoy creativity, spontaneity, and emotional connection.",
+        "challenges": "Both may struggle with long-term planning."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 4,
+      "high": 5,
+      "moderate": 5,
+      "challenging": 2,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
+    }
+  },
+  {
+    "type": "ESFJ",
+    "nickname": "The Consul",
+    "tagline": "The nurturing supporter. The social harmonizer. The loyal heart of the community.",
+    "overview": "ESFJs are warm, nurturing, and highly sociable. They value harmony, tradition, and caring for others. In relationships, they seek stability, emotional connection, and mutual support. ESFJs express love through thoughtful gestures, emotional attentiveness, and acts of service.",
+    "love_languages": {
+      "give": [
+        "Expressing affection through thoughtful actions and words of affirmation",
+        "Providing emotional support and creating a welcoming environment",
+        "Prioritizing their partner’s needs and ensuring their happiness"
+      ],
+      "receive": [
+        "Consistent affection and verbal reassurance",
+        "Thoughtful gestures that demonstrate care and appreciation",
+        "Emotional availability and quality time"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value structure, stability, and commitment.",
+        "challenges": "ISTJs' emotional reserve may frustrate ESFJs."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both prioritize harmony, loyalty, and emotional connection.",
+        "challenges": "Both may avoid conflict, leading to unresolved issues."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ESTJs provide structure, while ESFJs add warmth and emotional insight.",
+        "challenges": "ESTJs' assertiveness may overwhelm ESFJs."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Shared values of nurturing, tradition, and social harmony.",
+        "challenges": "Over-sacrificing for others can lead to burnout."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ISTPs bring spontaneity and excitement.",
+        "challenges": "ISTPs' independence may frustrate ESFJs' need for connection."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ISFPs add creativity and emotional depth.",
+        "challenges": "ISFPs' desire for freedom may clash with ESFJs' need for structure."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ESTPs bring energy and excitement.",
+        "challenges": "ESTPs’ risk-taking may stress ESFJs."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both enjoy socializing, fun, and emotional connection.",
+        "challenges": "Both may prioritize fun over addressing deeper issues."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INTJs provide structure and long-term vision.",
+        "challenges": "INTJs' emotional detachment can frustrate ESFJs."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "INFJs offer emotional insight and depth.",
+        "challenges": "INFJs' introspection may feel isolating to ESFJs."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENTJs provide leadership and structure.",
+        "challenges": "ENTJs' assertiveness may clash with ESFJs' desire for harmony."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both prioritize relationships, emotional connection, and social engagement.",
+        "challenges": "Both may neglect personal needs while focusing on others."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INTPs offer intellectual stimulation.",
+        "challenges": "INTPs' emotional detachment can frustrate ESFJs."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value emotional connection and compassion.",
+        "challenges": "INFPs' idealism may clash with ESFJs' practicality."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENTPs bring excitement and new ideas.",
+        "challenges": "ENTPs' spontaneity can overwhelm ESFJs."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy socializing, creativity, and emotional connection.",
+        "challenges": "ENFPs' impulsivity may frustrate ESFJs' need for stability."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 4,
+      "high": 5,
+      "moderate": 3,
+      "challenging": 4,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
+    }
+  },
+  {
+    "type": "ESTJ",
+    "nickname": "The Executive",
+    "tagline": "The structured leader. The decisive organizer. The dependable builder of order.",
+    "overview": "ESTJs are natural leaders who value structure, organization, and efficiency. They are dependable, decisive, and results-driven. In relationships, ESTJs seek stability, loyalty, and clear expectations. They show love through acts of responsibility, commitment, and practical support.",
+    "love_languages": {
+      "give": [
+        "Providing structure, security, and practical help",
+        "Taking responsibility for relationship goals and commitments",
+        "Offering clear, honest communication and leadership"
+      ],
+      "receive": [
+        "Respect for their leadership and decisions",
+        "Practical support and reliability",
+        "Clear communication and follow-through on commitments"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value structure, responsibility, and efficiency.",
+        "challenges": "Can become overly rigid without flexibility."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "ISFJs provide emotional warmth, balancing ESTJs' practicality.",
+        "challenges": "ISFJs' sensitivity may clash with ESTJs' bluntness."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Shared values of leadership, organization, and structure.",
+        "challenges": "Power struggles may arise without clear roles."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both prioritize stability, community, and relationships.",
+        "challenges": "ESTJs may overlook ESFJs' emotional needs."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISTPs add spontaneity to balance ESTJs' structure.",
+        "challenges": "ISTPs' independence may clash with ESTJs' need for control."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISFPs bring creativity and warmth.",
+        "challenges": "ISFPs' desire for freedom may frustrate ESTJs."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy action and results-driven activities.",
+        "challenges": "ESTPs' impulsiveness may clash with ESTJs' planning."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ESFPs add excitement and spontaneity.",
+        "challenges": "ESFPs may find ESTJs too controlling."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value long-term planning and efficiency.",
+        "challenges": "Emotional connection may be lacking."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INFJs provide depth and insight.",
+        "challenges": "INFJs' idealism may frustrate ESTJs' pragmatism."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both are driven, goal-oriented, and value efficiency.",
+        "challenges": "Power struggles may arise."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ENFJs bring warmth and emotional intelligence.",
+        "challenges": "ENFJs may find ESTJs too task-focused."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INTPs add intellectual stimulation.",
+        "challenges": "INTPs' abstract thinking may clash with ESTJs' practicality."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INFPs offer emotional depth.",
+        "challenges": "INFPs' idealism may frustrate ESTJs' realism."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ENTPs provide excitement and new ideas.",
+        "challenges": "ENTPs' spontaneity can clash with ESTJs' structure."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENFPs bring enthusiasm and creativity.",
+        "challenges": "ENFPs' impulsivity may frustrate ESTJs."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 2,
+      "high": 7,
+      "moderate": 5,
+      "challenging": 2,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
+    }
+  },
+  {
+    "type": "ISFJ",
+    "nickname": "The Defender",
+    "tagline": "The quiet guardian. The loyal nurturer. The steadfast heart of harmony.",
+    "overview": "ISFJs are nurturing, loyal, and compassionate. They value harmony, tradition, and emotional connection. In relationships, they seek security, kindness, and mutual support. ISFJs express love through acts of service, emotional attentiveness, and unwavering commitment.",
+    "love_languages": {
+      "give": [
+        "Thoughtful gestures and acts of service",
+        "Emotional support and attentiveness to their partner’s needs",
+        "Creating a warm, stable home environment"
+      ],
+      "receive": [
+        "Verbal affirmation and reassurance",
+        "Consistency, dependability, and thoughtful gestures",
+        "Emotional availability and active listening"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value loyalty, stability, and structure.",
+        "challenges": "ISTJs' practicality may clash with ISFJs' emotional sensitivity."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Shared values of nurturing, tradition, and compassion.",
+        "challenges": "Both may avoid conflict, leading to unresolved issues."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "ESTJs provide structure, while ISFJs add warmth and emotional support.",
+        "challenges": "ESTJs' assertiveness may overwhelm ISFJs' need for harmony."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both prioritize relationships, community, and nurturing.",
+        "challenges": "Over-sacrificing for others may lead to burnout."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISTPs bring excitement and spontaneity.",
+        "challenges": "ISTPs' emotional detachment can frustrate ISFJs."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value kindness, creativity, and emotional connection.",
+        "challenges": "ISFPs' spontaneity may clash with ISFJs' desire for routine."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ESTPs bring excitement and spontaneity.",
+        "challenges": "ESTPs’ risk-taking may stress ISFJs."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ESFPs bring fun and energy.",
+        "challenges": "ESFPs may neglect ISFJs' need for stability."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INTJs provide long-term vision.",
+        "challenges": "INTJs’ emotional detachment can frustrate ISFJs."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value emotional depth and meaningful connections.",
+        "challenges": "INFJs’ idealism may overwhelm ISFJs’ practicality."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENTJs provide structure and leadership.",
+        "challenges": "ENTJs' assertiveness may clash with ISFJs' gentle nature."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both are nurturing, compassionate, and relationship-focused.",
+        "challenges": "ENFJs' high energy may tire ISFJs."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INTPs offer intellectual stimulation.",
+        "challenges": "INTPs' emotional detachment may frustrate ISFJs."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value emotional connection and compassion.",
+        "challenges": "INFPs' idealism may clash with ISFJs' realism."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ENTPs bring excitement and new ideas.",
+        "challenges": "ENTPs' spontaneity can overwhelm ISFJs."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENFPs bring creativity and enthusiasm.",
+        "challenges": "ENFPs’ impulsivity may frustrate ISFJs’ need for stability."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 3,
+      "high": 4,
+      "moderate": 5,
+      "challenging": 4,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
+    }
+  },
+  {
+    "type": "ISTJ",
+    "nickname": "The Logistician",
+    "tagline": "The dependable planner. The traditionalist. The rock of stability.",
+    "overview": "ISTJs are dependable, practical, and highly organized. They value structure, responsibility, and tradition. In relationships, they seek stability, loyalty, and clear expectations. ISTJs show love through reliability, consistency, and providing for their loved ones.",
+    "love_languages": {
+      "give": [
+        "Acts of service, fulfilling promises, and maintaining order",
+        "Practical support rather than emotional expression",
+        "Offering long-term security and thoughtful planning"
+      ],
+      "receive": [
+        "Respect for their routines and traditions",
+        "Clear communication and honest intentions",
+        "Consistency and follow-through on commitments"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Shared values of structure and responsibility.",
+        "challenges": "Both may struggle to express emotions openly."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both value loyalty and nurturing relationships.",
+        "challenges": "Conflict may arise if emotional needs are ignored."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Mutual respect for structure and efficiency.",
+        "challenges": "Power struggles may occur if both insist on control."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "ESFJs provide warmth, balancing ISTJs' practicality.",
+        "challenges": "ESFJs may seek more emotional affirmation."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both value independence and problem-solving.",
+        "challenges": "ISTPs' spontaneity may conflict with ISTJs' structure."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISFPs bring creativity and emotional depth.",
+        "challenges": "ISTJs may find ISFPs' spontaneity frustrating."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ESTPs add excitement to ISTJs' structured world.",
+        "challenges": "ESTPs' risk-taking clashes with ISTJs’ caution."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ESFPs bring fun and energy.",
+        "challenges": "ISTJs may find ESFPs' spontaneity overwhelming."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value structure and strategy.",
+        "challenges": "Emotional intimacy may be lacking."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "INFJs provide emotional insight.",
+        "challenges": "INFJs may desire more emotional openness."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both are goal-oriented and efficient.",
+        "challenges": "Power struggles may arise."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENFJs bring enthusiasm.",
+        "challenges": "ENFJs may seek more emotional connection."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both value intellectual exploration.",
+        "challenges": "INTPs’ abstract thinking may clash."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INFPs bring emotional depth.",
+        "challenges": "INFPs’ idealism may frustrate ISTJs."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ENTPs provide excitement.",
+        "challenges": "ENTPs' spontaneity can irritate ISTJs."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ENFPs bring creativity.",
+        "challenges": "ENFPs' spontaneity clashes with ISTJs’ order."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 2,
+      "high": 5,
+      "moderate": 5,
+      "challenging": 4,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
+    }
+  },
+  {
+    "type": "ISTP",
+    "nickname": "The Virtuoso",
+    "tagline": "The independent problem-solver. The hands-on adventurer. The quiet analyst.",
+    "overview": "ISTPs are independent, analytical, and action-oriented. They value freedom, spontaneity, and hands-on experiences. In relationships, they seek partners who respect their autonomy while sharing their sense of adventure. ISTPs prefer showing love through actions rather than words, often expressing affection through practical support and shared experiences.",
+    "love_languages": {
+      "give": [
+        "Acts of service, problem-solving, and shared activities",
+        "Playful teasing and light-hearted companionship",
+        "Respecting their partner's independence and encouraging self-reliance"
+      ],
+      "receive": [
+        "Freedom to pursue hobbies and interests without feeling confined",
+        "Emotional support expressed through actions rather than words",
+        "Honest, straightforward communication without excessive emotional drama"
+      ]
+    },
+    "compatibility": [
+      {
+        "type": "ISTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both value independence, practicality, and efficiency. The ISTJ’s structured approach complements the ISTP’s hands-on nature.",
+        "challenges": "ISTJs prefer long-term planning, while ISTPs favor spontaneity. Compromise on structure vs. flexibility is crucial."
+      },
+      {
+        "type": "ISFJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "ISFJs provide nurturing support, while ISTPs offer excitement and variety.",
+        "challenges": "ISFJs crave emotional reassurance, which ISTPs may overlook unless mindful of their partner's needs."
+      },
+      {
+        "type": "ESTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both are action-oriented and value efficiency. They can build a strong, productive partnership.",
+        "challenges": "ESTJs may come off as controlling, clashing with the ISTP’s desire for independence."
+      },
+      {
+        "type": "ESFJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ESFJs bring warmth and social connection, while ISTPs add excitement.",
+        "challenges": "ESFJs need emotional connection, while ISTPs prefer practicality. Communication gaps may arise."
+      },
+      {
+        "type": "ISTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Shared independence, love for adventure, and mutual respect for personal space.",
+        "challenges": "Both may avoid emotional discussions, leading to unresolved conflicts."
+      },
+      {
+        "type": "ISFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both value spontaneity, creativity, and hands-on experiences.",
+        "challenges": "ISFPs may seek deeper emotional intimacy than ISTPs naturally provide."
+      },
+      {
+        "type": "ESTP",
+        "compatibility": "Very High",
+        "score": 0.95,
+        "why_it_works": "Both are adventurous, energetic, and thrive on excitement.",
+        "challenges": "Impulsivity and lack of long-term planning can lead to instability."
+      },
+      {
+        "type": "ESFP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy living in the moment and exploring new experiences.",
+        "challenges": "ESFPs may seek more emotional expression than ISTPs are comfortable providing."
+      },
+      {
+        "type": "INTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both appreciate independence and intellectual stimulation.",
+        "challenges": "INTJs’ long-term planning may conflict with ISTPs’ spontaneity."
+      },
+      {
+        "type": "INFJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "INFJs bring depth and vision, while ISTPs add practicality and spontaneity.",
+        "challenges": "INFJs seek emotional connection, which ISTPs may struggle to provide consistently."
+      },
+      {
+        "type": "ENTJ",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both are decisive, action-oriented, and enjoy tackling challenges together.",
+        "challenges": "ENTJs may dominate decision-making, clashing with ISTPs’ need for autonomy."
+      },
+      {
+        "type": "ENFJ",
+        "compatibility": "Challenging",
+        "score": 0.4,
+        "why_it_works": "ENFJs inspire growth, while ISTPs encourage spontaneity.",
+        "challenges": "ENFJs’ emotional intensity may overwhelm ISTPs."
+      },
+      {
+        "type": "INTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both enjoy intellectual exploration and independent pursuits.",
+        "challenges": "Both may avoid emotional discussions, leading to communication gaps."
+      },
+      {
+        "type": "INFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "INFPs offer emotional depth, while ISTPs bring practicality and action.",
+        "challenges": "INFPs may feel emotionally unfulfilled if ISTPs remain too detached."
+      },
+      {
+        "type": "ENTP",
+        "compatibility": "High",
+        "score": 0.8,
+        "why_it_works": "Both love excitement, intellectual challenges, and spontaneity.",
+        "challenges": "Both may struggle with follow-through and emotional vulnerability."
+      },
+      {
+        "type": "ENFP",
+        "compatibility": "Moderate",
+        "score": 0.6,
+        "why_it_works": "Both enjoy adventure, creativity, and living in the moment.",
+        "challenges": "ENFPs may crave more emotional connection than ISTPs naturally provide."
+      }
+    ],
+    "compatibility_distribution": {
+      "very_high": 1,
+      "high": 5,
+      "moderate": 7,
+      "challenging": 3,
+      "improbable": 0
+    },
+    "weights": {
+      "very_high": 0.95,
+      "high": 0.8,
+      "moderate": 0.6,
+      "challenging": 0.4,
+      "improbable": 0.2
     }
   }
 ]

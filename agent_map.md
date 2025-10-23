@@ -11,16 +11,16 @@ This document maps the smart agents used in **PersonaForge**. Each agent is desc
 - **Purpose:** Ensures that every selected MBTI type has at least one valid arc assigned. Suggests alternatives if none exist.
 - **Inputs:**  
   - MBTI type (string)  
-  - Arc mappings (`data/character_arc_mbti_mapping.json`)  
-  - Arc definitions (`data/character_arcs_option_b.json`)  
+  - Arc mappings (`data/mbti_arc_compatibility.json`)  
+  - Arc definitions (`data/arc_blueprints.json`)  
 - **Outputs:**  
   - Validation report (valid/invalid)  
   - List of compatible arcs  
   - Suggestions for missing mappings  
 - **Connected Files:**  
   - `data/mbti_profiles.json`  
-  - `data/character_arc_mbti_mapping.json`  
-  - `data/character_arcs_option_b.json`
+  - `data/mbti_arc_compatibility.json`  
+  - `data/arc_blueprints.json`
 
 ---
 
@@ -52,7 +52,8 @@ This document maps the smart agents used in **PersonaForge**. Each agent is desc
   - Suggested scenarios for tension  
 - **Connected Files:**  
   - `data/mbti_profiles.json`  
-  - `data/character_arc_mbti_mapping.json`
+  - `data/mbti_arc_compatibility.json`  
+  - `data/arc_blueprints.json`
 
 ---
 
@@ -67,7 +68,7 @@ This document maps the smart agents used in **PersonaForge**. Each agent is desc
   - Extended backstory idea (optional)  
 - **Connected Files:**  
   - `logic_templates/ai_dialogue_prompts.txt`  
-  - `data/character_arcs_option_b.json`
+  - `data/arc_blueprints.json`
 
 ---
 

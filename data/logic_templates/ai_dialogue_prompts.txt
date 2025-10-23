@@ -1,0 +1,163 @@
+# =====================================
+# AI DIALOGUE PROMPTS — FULL MBTI SET
+# =====================================
+
+## UNIVERSAL TEMPLATE
+"Simulate a conversation between {char_a_name} ({mbti_a}) and {char_b_name} ({mbti_b}). They are {relationship_type}. Character A is feeling {emotion}, and they are both in a situation where: {situation}. Generate 6–10 lines of dialogue plus a subtext summary."
+
+---
+
+## [UNIVERSAL SITUATIONS]
+- One confesses feelings at the worst possible moment
+- An argument escalates during a mission debrief
+- They discover one has betrayed the other
+- Both characters are forced to guard each other overnight
+- One has to console the other after a traumatic event
+- A prophecy reveals one will cause the other’s downfall
+- They disagree about whether to spare a villain
+- One is promoted, the other overlooked
+- They share an unexpected laugh after tragedy
+- A secret is revealed during a toast
+
+---
+
+## [MBTI-SPECIFIC PROMPTS]
+
+### ENFP — The Campaigner
+- Scene A: Comforts an introverted ally with humor that turns heartfelt.  
+- Scene B: Admits fear after a reckless decision nearly costs lives.  
+- Scene C: Inspires the group with chaotic optimism when morale is low.  
+
+### ENFJ — The Protagonist
+- Scene A: Takes responsibility for a team’s failure, even if unfair.  
+- Scene B: Encourages a rival to believe in themselves.  
+- Scene C: Compassion clashes with pragmatism in a moral dilemma.  
+
+### INFP — The Mediator
+- Scene A: Writes a confession but struggles to speak it aloud.  
+- Scene B: Stands up to a bully, surprising themselves.  
+- Scene C: Becomes the quiet moral anchor in heated conflict.  
+
+### INFJ — The Advocate
+- Scene A: Foresees someone’s emotional collapse and intervenes.  
+- Scene B: Lets go of someone they love for the greater good.  
+- Scene C: Tries to guide a reckless ally onto a wiser path.  
+
+### ENTP — The Debater
+- Scene A: Challenges a leader’s flawed plan in front of everyone.  
+- Scene B: Turns a dull moment into a chaotic distraction.  
+- Scene C: Masks insecurity with wit during high stakes.  
+
+### ENTJ — The Commander
+- Scene A: Declares bold action against opposition.  
+- Scene B: Confronts a subordinate’s failure with cold honesty.  
+- Scene C: Chooses strategy over compassion in crisis.  
+
+### INTP — The Thinker
+- Scene A: Argues logic against emotional appeals.  
+- Scene B: Quietly admits feelings through a “hypothetical.”  
+- Scene C: Becomes lost in thought during urgent danger.  
+
+### INTJ — The Mastermind
+- Scene A: Explains a ruthless plan others reject.  
+- Scene B: Watches someone falter, unsure how to help.  
+- Scene C: Clashes with idealists who reject their vision.  
+
+### ESFP — The Performer
+- Scene A: Lightens a tense mission with humor.  
+- Scene B: Confesses love loudly and impulsively.  
+- Scene C: Dives into danger to protect a friend.  
+
+### ESTP — The Dynamo
+- Scene A: Volunteers recklessly for a risky task.  
+- Scene B: Teases allies to break tension, sometimes too far.  
+- Scene C: Forces a shy friend into the spotlight.  
+
+### ISFP — The Artist
+- Scene A: Comforts through quiet companionship.  
+- Scene B: Breaks down emotionally after being pushed.  
+- Scene C: Refuses to fight but shows bravery when cornered.  
+
+### ISTP — The Virtuoso
+- Scene A: Responds to drama with detached calm.  
+- Scene B: Repairs something silently, revealing inner scars.  
+- Scene C: Loses temper unexpectedly when pushed too far.  
+
+### ESFJ — The Caregiver
+- Scene A: Organizes comfort for the group in crisis.  
+- Scene B: Cracks when their help is rejected.  
+- Scene C: Prioritizes harmony over truth in conflict.  
+
+### ESTJ — The Overseer
+- Scene A: Publicly calls out poor performance.  
+- Scene B: Struggles to admit when wrong.  
+- Scene C: Defends order against chaos in a heated debate.  
+
+### ISFJ — The Protector
+- Scene A: Hides wounds to avoid burdening others.  
+- Scene B: Writes a letter of comfort after failing.  
+- Scene C: Protects others quietly at great personal cost.  
+
+### ISTJ — The Inspector
+- Scene A: Stands alone for what’s right despite opposition.  
+- Scene B: Opens up slowly, rule by rule.  
+- Scene C: Confronts a reckless ally with blunt honesty.  
+
+---
+
+## [RELATIONSHIP TYPES — UNIVERSAL]
+
+[Mentor & Protégé]
+- Mentor pushes too hard, protégé rebels.  
+- Protégé succeeds where mentor failed, creating conflict.  
+
+[Rivals]
+- Public duel ends with mercy.  
+- Rivals forced to collaborate on survival.  
+
+[Secret Lovers]
+- Hidden affection nearly exposed by accident.  
+- A jealous misunderstanding strains the bond.  
+
+[Former Friends]
+- Reunion full of unspoken resentment.  
+- Shared memory rekindles bittersweet connection.  
+
+[Parent & Child (Found Family)]
+- “Parent” refuses to let “child” risk themselves.  
+- Blowout fight reveals hidden love.  
+
+[Comrades in Arms]
+- Arguing who should take a deadly risk.  
+- Shared grief after loss unites them.  
+
+---
+
+## [PAIR DYNAMICS — SAMPLE]
+
+[ENFP × INTJ]
+- ENFP’s chaotic energy vs INTJ’s calculated logic.  
+- Tension, then grudging respect when both prove right.  
+
+[ENFJ × INFP]
+- ENFJ pushes INFP to grow; INFP offers moral grounding.  
+
+[ENTP × ISFJ]
+- ENTP teases boundaries; ISFJ insists on duty.  
+
+[ISTP × ENFJ]
+- ISTP’s detachment clashes with ENFJ’s passion.  
+
+[INFJ × ESTP]
+- INFJ’s depth vs ESTP’s action-oriented impulsiveness.  
+
+[INTP × ESFJ]
+- Logic meets emotion; both struggle, then compromise.  
+
+---
+
+## [SAMPLE OUTPUT FORMAT]
+
+- Dialogue: 6–10 alternating lines.  
+- Subtext: 1–2 lines (hidden emotional truth).  
+- Optional: Compatibility or tension rating.  

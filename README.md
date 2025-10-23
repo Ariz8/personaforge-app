@@ -53,3 +53,28 @@ To become the go-to creative tool for authors, worldbuilders, and storytellers w
 ## 📬 Contributions Welcome
 
 If you'd like to contribute arcs, personality data, or help improve features—open an issue or submit a pull request! We aim to build a community-driven character creation ecosystem.
+
+## 🤖 Lovable Smart Agents
+
+PersonaForge integrates with [Lovable.dev](https://www.lovable.dev) to leverage AI agents that extend beyond static data. These agents provide dynamic logic for personality-driven storytelling, ensuring creators can simulate, validate, and explore character interactions in real time.
+
+### 📌 Current Agents
+
+| Agent Name | Purpose | Data Sources |
+|------------|---------|--------------|
+| **MBTI Arc Validator** | Ensures that every selected MBTI type is linked to at least one compatible arc. Returns alignment scores, alternative arcs, and suggestions when gaps are found. | `data/mbti_profiles.json`, `data/character_arc_mbti_mapping.json`, `data/character_arcs_option_b.json` |
+| **Relationship Simulator** | Generates dialogue snippets, emotional subtext, and compatibility notes between two characters based on MBTI and relationship type. Useful for love triangles, rivalries, or alliances. | `data/mbti_relationships_repaired.json`, `logic_templates/ai_dialogue_prompts.txt` |
+| **Triangle Builder** | Automatically builds narrative triangles (love/friendship/antagonist sets) by pairing MBTI profiles with arcs. Produces justification and writing prompts for each connection. | MBTI + Arc datasets |
+| **Narrative Prompt Engine** | Combines MBTI types, arcs, and universal situations into rich writing prompts or backstory seeds. Assists authors when characters need to be thrown into unexpected scenarios. | `logic_templates/ai_dialogue_prompts.txt`, scenario templates |
+
+### 🛠️ How Agents Work
+
+- **Trigger:** Agents run when prompted in Lovable’s chat or when workflows reference `request.txt`.  
+- **Behavior:** They consume the structured JSON data in `/data` and `/logic_templates`, then generate validated outputs or writing suggestions.  
+- **Integration:** Their outputs feed directly into PersonaForge’s character sheets, story folders, and simulation tools.  
+
+### 🔮 Future Agents
+
+- **Conflict Analyzer**: Predicts points of tension between MBTI types and arcs.  
+- **Story Seed Generator**: Builds short summaries of possible stories based on saved character ensembles.  
+- **Evolution Predictor**: Outlines how a character may change over time given their MBTI and assigned arc.  

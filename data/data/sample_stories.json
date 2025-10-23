@@ -1,0 +1,564 @@
+[
+  {
+    "story_id": "story_001",
+    "title": "Threads of Fate",
+    "summary": "A sprawling fantasy-drama where 16 characters from different kingdoms, each embodying a unique MBTI personality type, become entwined in prophecy, conflict, and unlikely alliances.",
+    "characters": [
+      {
+        "name": "Aelric",
+        "mbti_type": "ENFJ",
+        "arc": "Hero’s Journey",
+        "notes": "Charismatic leader who inspires others but bears heavy responsibility."
+      },
+      {
+        "name": "Lyra",
+        "mbti_type": "ENFP",
+        "arc": "Rebel Spark",
+        "notes": "Chaotic dreamer who disrupts traditions with infectious optimism."
+      },
+      {
+        "name": "Mira",
+        "mbti_type": "INFP",
+        "arc": "Tragic Mentor",
+        "notes": "Gentle soul with hidden strength, often underestimated."
+      },
+      {
+        "name": "Selene",
+        "mbti_type": "INFJ",
+        "arc": "Visionary Prophet",
+        "notes": "Mysterious guide who sees patterns others miss."
+      },
+      {
+        "name": "Kade",
+        "mbti_type": "INTJ",
+        "arc": "Fall from Grace",
+        "notes": "Strategic mastermind, disillusioned with corrupted systems."
+      },
+      {
+        "name": "Eryn",
+        "mbti_type": "INTP",
+        "arc": "Seeker of Truth",
+        "notes": "Eccentric thinker obsessed with knowledge, careless with people."
+      },
+      {
+        "name": "Darius",
+        "mbti_type": "ENTJ",
+        "arc": "Conqueror’s Path",
+        "notes": "Bold commander who sees people as pieces on a chessboard."
+      },
+      {
+        "name": "Talon",
+        "mbti_type": "ENTP",
+        "arc": "Trickster’s Gamble",
+        "notes": "Reckless innovator, loves to test limits of authority and fate."
+      },
+      {
+        "name": "Kaelen",
+        "mbti_type": "ISFJ",
+        "arc": "Protector’s Burden",
+        "notes": "Quiet guardian who sacrifices self for family and allies."
+      },
+      {
+        "name": "Rowan",
+        "mbti_type": "ISTJ",
+        "arc": "Loyalist’s Duty",
+        "notes": "Stalwart enforcer of order, deeply bound by oaths and honor."
+      },
+      {
+        "name": "Eira",
+        "mbti_type": "ESFJ",
+        "arc": "Heart of the Village",
+        "notes": "Nurturer who builds community, but struggles with boundaries."
+      },
+      {
+        "name": "Marcus",
+        "mbti_type": "ESTJ",
+        "arc": "Iron General",
+        "notes": "Strict but reliable leader, values order above all else."
+      },
+      {
+        "name": "Iris",
+        "mbti_type": "ISFP",
+        "arc": "Wounded Healer",
+        "notes": "Sensitive artist, expresses truth through actions more than words."
+      },
+      {
+        "name": "Dain",
+        "mbti_type": "ISTP",
+        "arc": "Lone Wolf",
+        "notes": "Practical survivalist who speaks through action not dialogue."
+      },
+      {
+        "name": "Ciro",
+        "mbti_type": "ESFP",
+        "arc": "The Star Performer",
+        "notes": "Flamboyant adventurer, thrives on excitement and attention."
+      },
+      {
+        "name": "Veyra",
+        "mbti_type": "ESTP",
+        "arc": "Thrillseeker’s Edge",
+        "notes": "Impulsive fighter who dives into danger with a grin."
+      }
+    ],
+    "relationships": [
+      {
+        "char_a": "Aelric",
+        "char_b": "Lyra",
+        "type": "allies",
+        "notes": "Leader and free spirit clash on methods but align on vision."
+      },
+      {
+        "char_a": "Mira",
+        "char_b": "Selene",
+        "type": "spiritual bond",
+        "notes": "Soft-hearted mediator grounds a prophet’s grand visions."
+      },
+      {
+        "char_a": "Kade",
+        "char_b": "Darius",
+        "type": "rivals",
+        "notes": "Mastermind strategist vs bold conqueror in an endless chess game."
+      },
+      {
+        "char_a": "Eryn",
+        "char_b": "Talon",
+        "type": "partners in crime",
+        "notes": "One’s logic feeds the other’s chaos, unpredictable duo."
+      },
+      {
+        "char_a": "Kaelen",
+        "char_b": "Rowan",
+        "type": "brotherhood",
+        "notes": "Two duty-bound guardians, bonded through loyalty and tradition."
+      },
+      {
+        "char_a": "Eira",
+        "char_b": "Marcus",
+        "type": "mentor/protégé",
+        "notes": "Nurturer tries to soften a rigid commander’s heart."
+      },
+      {
+        "char_a": "Iris",
+        "char_b": "Dain",
+        "type": "quiet companionship",
+        "notes": "Two introverts share unspoken trust, action over words."
+      },
+      {
+        "char_a": "Ciro",
+        "char_b": "Veyra",
+        "type": "partners",
+        "notes": "Daredevils who enable each other’s recklessness."
+      },
+      {
+        "char_a": "Selene",
+        "char_b": "Aelric",
+        "type": "prophecy",
+        "notes": "Visionary warns the hero of a future sacrifice."
+      },
+      {
+        "char_a": "Lyra",
+        "char_b": "Kade",
+        "type": "unrequited love",
+        "notes": "Optimistic dreamer drawn to a cold strategist."
+,
+{
+  "story_id": "story_002",
+  "title": "Eclipse of Empires",
+  "summary": "A political fantasy-thriller where the 16 MBTI types are divided across rival nations, each drawn into a fragile alliance threatened by betrayal, ambition, and prophecy.",
+  "characters": [
+    { "name": "Seraphine", "mbti_type": "ENFJ", "arc": "Chosen Leader", "notes": "Magnetic queen who struggles between compassion and duty." },
+    { "name": "Alaric", "mbti_type": "ENFP", "arc": "Revolutionary Dreamer", "notes": "Idealistic rebel stirring hope among the oppressed." },
+    { "name": "Ilyas", "mbti_type": "INFP", "arc": "Silent Martyr", "notes": "Tender poet turned reluctant freedom fighter." },
+    { "name": "Thalos", "mbti_type": "INFJ", "arc": "Oracle’s Burden", "notes": "Seer weighed down by visions of destruction." },
+    { "name": "Cassian", "mbti_type": "INTJ", "arc": "Grand Strategist", "notes": "Cold, calculating warlord whose loyalty lies only with victory." },
+    { "name": "Ophel", "mbti_type": "INTP", "arc": "Scholar’s Dilemma", "notes": "Knowledge-obsessed inventor who forgets human cost." },
+    { "name": "Magnus", "mbti_type": "ENTJ", "arc": "Empire Builder", "notes": "Iron-fisted general seeking to unify nations through conquest." },
+    { "name": "Kaelith", "mbti_type": "ENTP", "arc": "Jester Prince", "notes": "Charismatic trickster who manipulates both sides for fun." },
+    { "name": "Ysolde", "mbti_type": "ISFJ", "arc": "Unseen Guardian", "notes": "Healer devoted to protecting the powerless." },
+    { "name": "Brynjar", "mbti_type": "ISTJ", "arc": "Keeper of Oaths", "notes": "Veteran knight, unwavering in tradition." },
+    { "name": "Clarisse", "mbti_type": "ESFJ", "arc": "Peacemaker", "notes": "Diplomat torn between loyalty and empathy." },
+    { "name": "Hadrian", "mbti_type": "ESTJ", "arc": "Lawbringer", "notes": "Strict enforcer of codes, blind to nuance." },
+    { "name": "Elira", "mbti_type": "ISFP", "arc": "Wild Soul", "notes": "Nomadic wanderer expressing truth through art and music." },
+    { "name": "Taren", "mbti_type": "ISTP", "arc": "Shadow Operative", "notes": "Cynical mercenary who trusts only instinct." },
+    { "name": "Solenne", "mbti_type": "ESFP", "arc": "Torch of Joy", "notes": "Performer-turned-rebel who rouses crowds with passion." },
+    { "name": "Valen", "mbti_type": "ESTP", "arc": "Duelist", "notes": "Fearless fighter addicted to adrenaline and risk." }
+  ],
+  "relationships": [
+    { "char_a": "Seraphine", "char_b": "Cassian", "type": "political rivals", "notes": "Queen’s mercy clashes with strategist’s ruthlessness." },
+    { "char_a": "Alaric", "char_b": "Magnus", "type": "ideological enemies", "notes": "Dreamer vs conqueror, both believe their way saves the world." },
+    { "char_a": "Thalos", "char_b": "Ilyas", "type": "prophecy bond", "notes": "Oracle foresees poet’s sacrifice as the turning point." },
+    { "char_a": "Ophel", "char_b": "Kaelith", "type": "unlikely allies", "notes": "Inventor’s curiosity feeds the jester’s chaos." },
+    { "char_a": "Ysolde", "char_b": "Solenne", "type": "heart bond", "notes": "Gentle healer balances fiery performer." },
+    { "char_a": "Brynjar", "char_b": "Valen", "type": "combat tension", "notes": "Knight’s discipline collides with duelist’s recklessness." },
+    { "char_a": "Clarisse", "char_b": "Hadrian", "type": "diplomatic strain", "notes": "Mediator tries to temper rigid lawman." },
+    { "char_a": "Elira", "char_b": "Taren", "type": "silent connection", "notes": "Nomad and mercenary bond through action, not words." },
+    { "char_a": "Seraphine", "char_b": "Thalos", "type": "confidants", "notes": "Queen leans on oracle’s foresight at great personal cost." },
+    { "char_a": "Alaric", "char_b": "Elira", "type": "romantic tension", "notes": "Rebel inspired by artist’s untamed spirit." }
+ ,
+{
+  "story_id": "story_003",
+  "title": "The Veil of Shadows",
+  "summary": "In a city where the boundary between reality and nightmare is thin, 16 strangers are drawn into a supernatural conspiracy. Each embodies a unique MBTI personality type and must face secrets from their past as the veil between worlds weakens.",
+  "characters": [
+    { "name": "Elowen", "mbti_type": "ENFJ", "arc": "Guiding Light", "notes": "Charismatic teacher haunted by visions, determined to lead survivors." },
+    { "name": "Finn", "mbti_type": "ENFP", "arc": "Restless Seeker", "notes": "Witty dreamer chasing mysteries with reckless curiosity." },
+    { "name": "Neris", "mbti_type": "INFP", "arc": "Sacrificial Heart", "notes": "Empath who believes redemption can even reach monsters." },
+    { "name": "Sable", "mbti_type": "INFJ", "arc": "Keeper of Secrets", "notes": "Cryptic prophet who knows more than they reveal." },
+    { "name": "Dorian", "mbti_type": "INTJ", "arc": "Architect of Fate", "notes": "Cold mastermind tracing patterns in the chaos." },
+    { "name": "Lyric", "mbti_type": "INTP", "arc": "Puzzle Solver", "notes": "Eccentric cryptographer obsessed with codes and anomalies." },
+    { "name": "Varian", "mbti_type": "ENTJ", "arc": "The Tactician", "notes": "Fearless commander who wants to control the darkness." },
+    { "name": "Kairos", "mbti_type": "ENTP", "arc": "Instigator", "notes": "Chaotic trickster who stirs conflict just to see what emerges." },
+    { "name": "Althea", "mbti_type": "ISFJ", "arc": "Silent Protector", "notes": "Nurse who sacrifices herself to shield others from danger." },
+    { "name": "Grayson", "mbti_type": "ISTJ", "arc": "Sentinel of Order", "notes": "Detective clinging to rules even when the city unravels." },
+    { "name": "Marielle", "mbti_type": "ESFJ", "arc": "Caretaker", "notes": "Innkeeper who becomes the emotional anchor of the group." },
+    { "name": "Corvin", "mbti_type": "ESTJ", "arc": "Iron Enforcer", "notes": "Militant officer who believes order is the only salvation." },
+    { "name": "Sylas", "mbti_type": "ISFP", "arc": "The Drifter", "notes": "Street artist who paints prophetic visions without knowing why." },
+    { "name": "Ivar", "mbti_type": "ISTP", "arc": "Survivor", "notes": "Mechanic with nerves of steel, pragmatic to the core." },
+    { "name": "Seren", "mbti_type": "ESFP", "arc": "The Spark", "notes": "Performer who keeps spirits alive, hiding fear behind smiles." },
+    { "name": "Riven", "mbti_type": "ESTP", "arc": "Thrill Hunter", "notes": "Risk-taker who laughs in the face of nightmares." }
+  ],
+  "relationships": [
+    { "char_a": "Elowen", "char_b": "Dorian", "type": "ideological tension", "notes": "Leader’s empathy clashes with strategist’s ruthlessness." },
+    { "char_a": "Finn", "char_b": "Sable", "type": "curiosity", "notes": "Dreamer obsessed with unlocking the prophet’s secrets." },
+    { "char_a": "Neris", "char_b": "Varian", "type": "conflicted alliance", "notes": "Empath’s mercy unsettles the commander’s harsh tactics." },
+    { "char_a": "Lyric", "char_b": "Kairos", "type": "partners in mischief", "notes": "The cryptographer’s logic fuels the trickster’s chaos." },
+    { "char_a": "Althea", "char_b": "Seren", "type": "heart bond", "notes": "Caretaker protects the entertainer, grounding their flamboyance." },
+    { "char_a": "Grayson", "char_b": "Corvin", "type": "strained comrades", "notes": "Detective distrusts the officer’s authoritarianism." },
+    { "char_a": "Sylas", "char_b": "Neris", "type": "kindred spirits", "notes": "Artist and empath find solace in shared vulnerability." },
+    { "char_a": "Ivar", "char_b": "Riven", "type": "rivalry", "notes": "Mechanic’s pragmatism collides with daredevil’s recklessness." },
+    { "char_a": "Marielle", "char_b": "Elowen", "type": "confidants", "notes": "Caretaker supports leader when her visions overwhelm her." },
+    { "char_a": "Grayson", "char_b": "Sylas", "type": "guardian bond", "notes": "Detective watches over the prophetic artist out of duty." }
+ ,
+{
+  "story_id": "story_004",
+  "title": "Ashes of Winter",
+  "summary": "A survival drama set in the ruins of a frozen world, where four survivors must navigate trust, rivalry, and fragile bonds while seeking shelter beyond the storm.",
+  "characters": [
+    { "name": "Kaelen", "mbti_type": "INFJ", "arc": "Prophet in the Snow", "notes": "A quiet visionary burdened by ominous dreams of what lies ahead." },
+    { "name": "Rowan", "mbti_type": "ESTP", "arc": "Daredevil Survivor", "notes": "A reckless scavenger who thrives on risk but hides deep scars." },
+    { "name": "Elira", "mbti_type": "ISFJ", "arc": "Guardian of the Fire", "notes": "A gentle caretaker who sacrifices warmth and rations to protect the group." },
+    { "name": "Darius", "mbti_type": "ENTJ", "arc": "Iron Strategist", "notes": "A hardened leader determined to enforce order, even at the cost of humanity." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Kaelen",
+      "char_b": "Rowan",
+      "type": "ideological clash",
+      "notes": "Prophet’s caution conflicts with scavenger’s reckless survival methods."
+    },
+    {
+      "char_a": "Elira",
+      "char_b": "Darius",
+      "type": "strained alliance",
+      "notes": "Caretaker resents the strategist’s harsh leadership but follows out of necessity."
+    },
+    {
+      "char_a": "Kaelen",
+      "char_b": "Elira",
+      "type": "confidants",
+      "notes": "Visionary confides dreams of disaster; caretaker offers comfort but doubts them."
+    },
+    {
+      "char_a": "Rowan",
+      "char_b": "Darius",
+      "type": "rivalry",
+      "notes": "Daredevil refuses to take orders, strategist sees him as a liability."
+    },
+    {
+      "char_a": "Elira",
+      "char_b": "Rowan",
+      "type": "protective bond",
+      "notes": "Caretaker tries to shield the reckless scavenger, who resents being treated like a child."
+    },
+    {
+      "char_a": "Kaelen",
+      "char_b": "Darius",
+      "type": "mutual respect",
+      "notes": "Visionary and strategist disagree on methods but recognize each other’s importance."
+    ,
+{
+  "story_id": "story_005",
+  "title": "Echoes in the Lighthouse",
+  "summary": "Three castaways stranded on a storm-battered island discover an abandoned lighthouse that may hold the key to survival — but their clashing personalities threaten to tear them apart before rescue ever arrives.",
+  "characters": [
+    { "name": "Mira", "mbti_type": "ENFP", "arc": "Beacon of Hope", "notes": "An adventurous idealist who refuses to give up, bringing energy but also reckless risk-taking." },
+    { "name": "Thorne", "mbti_type": "ISTJ", "arc": "Reluctant Guardian", "notes": "A disciplined ex-sailor who insists on rules and survival routines, often clashing with free-spirited Mira." },
+    { "name": "Selene", "mbti_type": "INTP", "arc": "Seeker of Truth", "notes": "A quiet thinker who becomes obsessed with deciphering the lighthouse’s strange markings and forgotten history." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Mira",
+      "char_b": "Thorne",
+      "type": "conflict",
+      "notes": "Mira’s impulsive optimism drives Thorne mad, but her spirit keeps him from despair."
+    },
+    {
+      "char_a": "Mira",
+      "char_b": "Selene",
+      "type": "curiosity",
+      "notes": "Adventurer encourages the thinker to share wild theories, even when impractical."
+    },
+    {
+      "char_a": "Thorne",
+      "char_b": "Selene",
+      "type": "tense respect",
+      "notes": "Sailor distrusts intellectual musings but relies on Selene’s insights when the lighthouse behaves strangely."
+    },
+    {
+      "char_a": "Mira",
+      "char_b": "Thorne",
+      "type": "unspoken bond",
+      "notes": "Despite constant arguments, each secretly admires the other’s resilience."
+    ,
+{
+  "story_id": "story_006",
+  "title": "The Last Bridge",
+  "summary": "Two survivors from rival factions meet on a crumbling bridge over a poisoned river. With the world collapsing around them, they must decide whether to destroy each other or work together to survive.",
+  "characters": [
+    { "name": "Elias", "mbti_type": "ENTP", "arc": "Trickster’s Redemption", "notes": "A sharp-witted schemer who masks fear with humor, always testing boundaries." },
+    { "name": "Kaelen", "mbti_type": "ISFJ", "arc": "Shield of Duty", "notes": "A loyal protector haunted by past failures, torn between compassion and vengeance." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Elias",
+      "char_b": "Kaelen",
+      "type": "rivals",
+      "notes": "Once fought on opposite sides of the war; years of mistrust linger."
+    },
+    {
+      "char_a": "Elias",
+      "char_b": "Kaelen",
+      "type": "forced alliance",
+      "notes": "They must cross the bridge together, despite suspicion and anger."
+    },
+    {
+      "char_a": "Elias",
+      "char_b": "Kaelen",
+      "type": "emerging bond",
+      "notes": "Moments of honesty reveal surprising respect and shared guilt."
+  ,
+{
+  "story_id": "story_007",
+  "title": "The Shattered Crown",
+  "summary": "In a fractured kingdom where the throne lies empty, five unlikely contenders and allies converge on the capital. Each harbors their own ambitions, loyalties, and secrets — and only together can they stop the realm from falling into ruin.",
+  "characters": [
+    { "name": "Seraphine", "mbti_type": "INFJ", "arc": "Visionary Heir", "notes": "A secret heir haunted by prophetic dreams, torn between destiny and compassion." },
+    { "name": "Ronan", "mbti_type": "ESTP", "arc": "The Challenger", "notes": "A brash knight who believes the throne belongs to the strongest warrior." },
+    { "name": "Lyanna", "mbti_type": "ENFP", "arc": "Rebel Flame", "notes": "A fiery revolutionary who sees the throne as a chance to reform the kingdom." },
+    { "name": "Dorian", "mbti_type": "INTJ", "arc": "Master of Webs", "notes": "A cunning strategist weaving alliances and betrayals like a chessboard." },
+    { "name": "Eira", "mbti_type": "ISFJ", "arc": "Silent Shield", "notes": "A loyal protector sworn to safeguard the weak, regardless of politics." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Seraphine",
+      "char_b": "Dorian",
+      "type": "uneasy alliance",
+      "notes": "Visionary heir leans on strategist’s cunning but distrusts his motives."
+    },
+    {
+      "char_a": "Ronan",
+      "char_b": "Lyanna",
+      "type": "rivals",
+      "notes": "Knight values strength above all; rebel challenges him with ideals."
+    },
+    {
+      "char_a": "Lyanna",
+      "char_b": "Eira",
+      "type": "confidants",
+      "notes": "Rebel finds comfort in protector’s quiet loyalty."
+    },
+    {
+      "char_a": "Ronan",
+      "char_b": "Seraphine",
+      "type": "romantic tension",
+      "notes": "Warrior admires heir’s courage, but his arrogance fuels conflict."
+    },
+    {
+      "char_a": "Eira",
+      "char_b": "Seraphine",
+      "type": "guardian bond",
+      "notes": "Protector shields heir not out of duty, but deep personal devotion."
+    },
+    {
+      "char_a": "Dorian",
+      "char_b": "Lyanna",
+      "type": "manipulation",
+      "notes": "Strategist flatters rebel’s ideals to bend her toward his schemes."
+    ,
+{
+  "story_id": "story_008",
+  "title": "Echoes of the Labyrinth",
+  "summary": "Eight strangers awaken in a shifting underground labyrinth, each with fragmented memories. To escape, they must unravel the mystery of why they were chosen — but the maze itself twists their fears and alliances against them.",
+  "characters": [
+    { "name": "Kaelen", "mbti_type": "ENTP", "arc": "The Instigator", "notes": "Quick-witted trickster who jokes through danger, secretly testing everyone’s limits." },
+    { "name": "Ilyra", "mbti_type": "ENFJ", "arc": "The Guiding Flame", "notes": "Natural leader who tries to unite the group, hiding her own uncertainty." },
+    { "name": "Bryn", "mbti_type": "ISTJ", "arc": "The Iron Warden", "notes": "Methodical and stubborn, insists on rules even when none make sense in the maze." },
+    { "name": "Sylas", "mbti_type": "ISFP", "arc": "The Broken Artist", "notes": "Dreamy observer sketching the labyrinth, revealing cryptic truths in drawings." },
+    { "name": "Riven", "mbti_type": "ESTP", "arc": "The Risk-Taker", "notes": "Thrill-seeker who pushes deeper into danger, resents hesitation from others." },
+    { "name": "Selene", "mbti_type": "INFJ", "arc": "The Seer", "notes": "Haunted by recurring visions of the labyrinth collapsing." },
+    { "name": "Corvin", "mbti_type": "INTP", "arc": "The Analyst", "notes": "Obsessed with deciphering patterns in the maze’s shifting walls." },
+    { "name": "Eira", "mbti_type": "ESFJ", "arc": "The Caretaker", "notes": "Soothes group tensions, offering food and comfort, but strains herself thin." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Kaelen",
+      "char_b": "Bryn",
+      "type": "conflict",
+      "notes": "Trickster mocks the warden’s rules, sparking constant clashes."
+    },
+    {
+      "char_a": "Ilyra",
+      "char_b": "Selene",
+      "type": "confidants",
+      "notes": "Leader relies on seer’s visions to guide the group."
+    },
+    {
+      "char_a": "Riven",
+      "char_b": "Sylas",
+      "type": "unexpected bond",
+      "notes": "Reckless fighter finds peace in the artist’s quiet sketches."
+    },
+    {
+      "char_a": "Corvin",
+      "char_b": "Kaelen",
+      "type": "partners in chaos",
+      "notes": "Analyst provides theories, trickster turns them into reckless experiments."
+    },
+    {
+      "char_a": "Eira",
+      "char_b": "Bryn",
+      "type": "mutual respect",
+      "notes": "Caretaker softens the warden’s rigidity, earning his loyalty."
+    },
+    {
+      "char_a": "Ilyra",
+      "char_b": "Riven",
+      "type": "tension",
+      "notes": "Leader tries to hold reckless fighter accountable, sparks fly."
+    },
+    {
+      "char_a": "Selene",
+      "char_b": "Sylas",
+      "type": "shared vision",
+      "notes": "Seer recognizes prophetic truth in the artist’s drawings."
+    },
+    {
+      "char_a": "Corvin",
+      "char_b": "Eira",
+      "type": "dependency",
+      "notes": "Analyst neglects basic needs, caretaker makes sure he eats and rests."
+,
+{
+  "story_id": "story_009",
+  "title": "The Fractured Alliance",
+  "summary": "Ten heroes and outcasts gather under a fragile truce to resist an encroaching empire. Divided by ideology, pride, and secrets, their unity is as dangerous as their enemies.",
+  "characters": [
+    { "name": "Aelric", "mbti_type": "ENTJ", "arc": "Commander of the Fallen", "notes": "Once a general, now leading rebels with ruthless efficiency." },
+    { "name": "Lyra", "mbti_type": "ENFP", "arc": "Voice of the People", "notes": "An idealistic revolutionary who sees hope where others see ruin." },
+    { "name": "Seren", "mbti_type": "ISFP", "arc": "Wounded Soul", "notes": "An artist scarred by war, reluctant to fight but unable to look away." },
+    { "name": "Kaelen", "mbti_type": "INFJ", "arc": "Silent Prophet", "notes": "A visionary whose cryptic dreams warn of betrayal within the group." },
+    { "name": "Dain", "mbti_type": "ISTP", "arc": "Mercenary’s Code", "notes": "Pragmatic survivalist who trusts only skill and coin." },
+    { "name": "Marielle", "mbti_type": "ESFJ", "arc": "Mother of the Camp", "notes": "Caretaker who holds the alliance together with compassion and organization." },
+    { "name": "Thorne", "mbti_type": "INTJ", "arc": "Architect of Rebellion", "notes": "Strategist who sees people as pieces in a calculated revolution." },
+    { "name": "Ciro", "mbti_type": "ESFP", "arc": "The Firebrand", "notes": "Charismatic performer-turned-rebel who thrives on inspiring crowds." },
+    { "name": "Rowan", "mbti_type": "ISTJ", "arc": "Oathkeeper", "notes": "Rigid soldier who insists on discipline, even in chaos." },
+    { "name": "Elira", "mbti_type": "INFP", "arc": "Reluctant Hero", "notes": "Empathic dreamer dragged into war, clings to ideals in a broken world." }
+  ],
+  "relationships": [
+    {
+      "char_a": "Aelric",
+      "char_b": "Lyra",
+      "type": "ideological clash",
+      "notes": "Commander believes in power; dreamer insists on compassion."
+    },
+    {
+      "char_a": "Seren",
+      "char_b": "Elira",
+      "type": "kindred spirits",
+      "notes": "Both struggle with violence, finding comfort in each other’s ideals."
+    },
+    {
+      "char_a": "Kaelen",
+      "char_b": "Thorne",
+      "type": "tension",
+      "notes": "Prophet’s cryptic warnings frustrate the strategist’s logical plans."
+    },
+    {
+      "char_a": "Marielle",
+      "char_b": "Ciro",
+      "type": "family bond",
+      "notes": "Caretaker supports the firebrand’s passion, reminding him of balance."
+    },
+    {
+      "char_a": "Dain",
+      "char_b": "Rowan",
+      "type": "rivals",
+      "notes": "Mercenary mocks soldier’s rigidity, but both secretly admire each other’s skill."
+    },
+    {
+      "char_a": "Lyra",
+      "char_b": "Elira",
+      "type": "confidants",
+      "notes": "Revolutionary encourages the reluctant dreamer to find her voice."
+    },
+    {
+      "char_a": "Aelric",
+      "char_b": "Rowan",
+      "type": "commander-soldier",
+      "notes": "Old loyalties linger, but Aelric’s fall from honor tests the soldier’s faith."
+    },
+    {
+      "char_a": "Kaelen",
+      "char_b": "Seren",
+      "type": "mystical bond",
+      "notes": "Prophet finds fragments of destiny in the artist’s visions."
+    },
+    {
+      "char_a": "Thorne",
+      "char_b": "Marielle",
+      "type": "quiet respect",
+      "notes": "Strategist relies on caretaker to manage what his logic overlooks."
+    },
+    {
+      "char_a": "Ciro",
+      "char_b": "Lyra",
+      "type": "partners in hope",
+      "notes": "Performer fuels the revolutionary’s ideals with fire and spectacle."
+   ,
+{
+  "story_id": "story_010",
+  "title": "The Twelve and the Tide",
+  "summary": "Twelve voyagers from rival kingdoms are stranded on an ancient archipelago. With storms raging and ruins whispering secrets, alliances fracture as each character pursues survival, ambition, and hidden agendas.",
+  "characters": [
+    { "name": "Amara", "mbti_type": "ENFP", "arc": "Flame of Rebellion", "notes": "Dreamer and adventurer who sees hope even on cursed shores." },
+    { "name": "Gareth", "mbti_type": "ENTJ", "arc": "Conqueror’s Shadow", "notes": "Ambitious warlord determined to turn survival into conquest." },
+    { "name": "Selene", "mbti_type": "INFJ", "arc": "Seer of the Deep", "notes": "Prophet whose visions warn of a great betrayal among the group." },
+    { "name": "Kaelen", "mbti_type": "INTP", "arc": "Lost Scholar", "notes": "Obsessed with the ruins, chasing knowledge at the cost of safety." },
+    { "name": "Dorian", "mbti_type": "INTJ", "arc": "The Chessmaster", "notes": "Strategist who treats survival as a game of long-term moves." },
+    { "name": "Lyra", "mbti_type": "ISFP", "arc": "Heart of the Wild", "notes": "Gentle artist attuned to the strange flora and fauna of the islands." },
+    { "name": "Corvin", "mbti_type": "ISTJ", "arc": "Keeper of Order", "notes": "Rigid ex-soldier, obsessed with enforcing structure among chaos." },
+    { "name": "Mira", "mbti_type": "INFP", "arc": "Silent Martyr", "notes": "Empathic healer willing to sacrifice for the others." },
+    { "name": "Riven", "mbti_type": "ESTP", "arc": "Blade in the Storm", "notes": "Thrill-seeking fighter who relishes challenges and danger." },
+    { "name": "Eira", "mbti_type": "ESFJ", "arc": "Mother of the Shore", "notes": "Caretaker who builds community, trying to hold the voyagers together." },
+    { "name": "Thalos", "mbti_type": "ENTP", "arc": "The Trickster", "notes": "Chaotic charmer who pushes boundaries and tempts betrayal." },
+    { "name": "Ilyas", "mbti_type": "ISTP", "arc": "Lone Wolf", "notes": "Pragmatic survivor who prefers working alone but can’t abandon the group." }
+  ],
+  "relationships": [
+    { "char_a": "Amara", "char_b": "Gareth", "type": "ideological clash", "notes": "Dreamer’s hope versus warlord’s hunger for power." },
+    { "char_a": "Selene", "char_b": "Dorian", "type": "vision vs strategy", "notes": "Prophet’s visions and strategist’s logic rarely align." },
+    { "char_a": "Kaelen", "char_b": "Lyra", "type": "curiosity bond", "notes": "Scholar fascinated by artist’s intuitive connection to nature." },
+    { "char_a": "Corvin", "char_b": "Riven", "type": "discipline vs chaos", "notes": "Soldier’s order collides with fighter’s recklessness." },
+    { "char_a": "Mira", "char_b": "Eira", "type": "caretaker alliance", "notes": "Healer and nurturer support each other as anchors of the group." },
+    { "char_a": "Thalos", "char_b": "Gareth", "type": "manipulation", "notes": "Trickster flatters warlord, hoping to ride his power to safety." },
+    { "char_a": "Ilyas", "char_b": "Selene", "type": "reluctant trust", "notes": "Survivor dismisses prophet’s visions, but secretly listens at night." },
+    { "char_a": "Amara", "char_b": "Lyra", "type": "kindred spirits", "notes": "Both cling to beauty and freedom amidst ruin." },
+    { "char_a": "Dorian", "char_b": "Corvin", "type": "command rivalry", "notes": "Strategist and soldier both want control over the group’s direction." },
+    { "char_a": "Thalos", "char_b": "Amara", "type": "romantic tension", "notes": "Trickster teases the dreamer, but hides genuine attraction." },
+    { "char_a": "Ilyas", "char_b": "Mira", "type": "protective bond", "notes": "Survivor shields healer during raids, though he resents reliance." },
+    { "char_a": "Riven", "char_b": "Eira", "type": "friction", "notes": "Daredevil’s recklessness undermines caretaker’s efforts to keep peace." }
+  ]
+}
+
+
+
